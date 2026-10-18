@@ -41,3 +41,5 @@
 Amos 的双骨骼逆运动学与接地处理参考并改编了 [sprite-maker](https://github.com/JohnKinyanjui/sprite-maker)（commit `9de73a6136a1a045af2e8769349fbadc17dbef69`）的相关思路。MIT 完整声明见 `licenses/sprite-maker-MIT.txt`。人物部件图为本项目生成；未运行其完整 Rust/MCP 制作流程。
 
 俄罗斯方块（英文界面Falling Blocks）另参考Jake Gordon的 [javascript-tetris](https://github.com/jakesgordon/javascript-tetris) 与其MIT许可，独立编写规则和界面，未复制上游源码或美术。具体规则差异及许可证检查见 `art-sources/v27/TETRIS_RESEARCH.md`。猫咪立绘和高棋盘为本项目新生成素材。
+
+英文填字参考 [Exolve](https://github.com/viresh-ratnakar/exolve) 的横竖线索、方格导航与检查交互。引擎、三道迷你题及线索均为本项目独立编写，没有复制Exolve源码或题库；研究与许可边界见 `art-sources/v28/CROSSWORD_RESEARCH.md`。
