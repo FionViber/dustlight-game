@@ -1,0 +1,47 @@
+{
+  "cat-button-everyday-v27": {
+    "url": "/art/v27/cat-button-everyday-v27.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "outputBytes": 1598408,
+    "sha256": "c88284519105bc7c681edb41ceba114e8991f9d9ee298043a45c3cb1ab7180e9"
+  },
+  "cat-button-work-v27": {
+    "url": "/art/v27/cat-button-work-v27.webp",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "outputBytes": 1496006,
+    "sha256": "47f3d76ef7b91e3b9dbc1d65d1429cf48595d3f27e0cb9abf337d3d3450ea673"
+  },
+  "cat-button-formal-v27": {
+    "url": "/art/v27/cat-button-formal-v27.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "outputBytes": 1626746,
+    "sha256": "9de8b7c2651ece2a104c0d9198767bbf131e515fc7afd05bd67d28ecc4b7a553"
+  },
+  "ui-pet-v27": {
+    "url": "/art/v27/ui-pet-v27.webp",
+    "dimensions": [
+      512,
+      512
+    ],
+    "outputBytes": 283000,
+    "sha256": "6b6f6a427a08ec2e9935422f6b04689ea10584b644c98d3017f97bc91a9c98ce"
+  },
+  "board-falling-v27": {
+    "url": "/art/v27/board-falling-v27.webp",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "outputBytes": 1537932,
+    "sha256": "17d59aee34202506c760f64421899a03abda99b145d43b394c92d21386c9c3a1"
+  }
+}

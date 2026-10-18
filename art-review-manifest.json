@@ -2350,5 +2350,35 @@
     "src": "/art/v26/snake-tail-v26.webp",
     "width": 256,
     "height": 256
+  },
+  {
+    "id": "cat-button-everyday-v27",
+    "src": "/art/v27/cat-button-everyday-v27.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "cat-button-work-v27",
+    "src": "/art/v27/cat-button-work-v27.webp",
+    "width": 1536,
+    "height": 1024
+  },
+  {
+    "id": "cat-button-formal-v27",
+    "src": "/art/v27/cat-button-formal-v27.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "ui-pet-v27",
+    "src": "/art/v27/ui-pet-v27.webp",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "id": "board-falling-v27",
+    "src": "/art/v27/board-falling-v27.webp",
+    "width": 941,
+    "height": 1672
   }
 ]
