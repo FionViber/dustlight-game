@@ -1,0 +1,35 @@
+{
+  "recordedAtUtc": "2026-10-08T16:46:27.2881888Z",
+  "tracks": [
+    {
+      "id": "day",
+      "source": "C:\\Users\\Y7000P\\Desktop\\果汁项目\\西部游戏\\The Long Way Home_Day.mp3",
+      "runtime": "public/audio/the-long-way-home-day.mp3",
+      "bytes": 5613604,
+      "sha256": "0aba6a8d1822e4de0c59b2587f882c452f99960cd5dcd430b898de9e6d2f86df",
+      "sourceUnchanged": true,
+      "operation": "Read-only source copy; no transcoding or tag modification",
+      "authorization": "User-provided track, explicitly authorized copy for game BGM; no independent license claim"
+    },
+    {
+      "id": "night",
+      "source": "C:\\Users\\Y7000P\\Desktop\\果汁项目\\西部游戏\\The Long Way Home_Night.mp3",
+      "runtime": "public/audio/the-long-way-home-night.mp3",
+      "bytes": 5334213,
+      "sha256": "b55187db943e35ff49a219e3b19006ef24e80e04e46d2eca96b9d58dab1b4341",
+      "sourceUnchanged": true,
+      "operation": "Read-only source copy; no transcoding or tag modification",
+      "authorization": "User-provided track, explicitly authorized copy for game BGM; no independent license claim"
+    },
+    {
+      "id": "coffee",
+      "source": "C:\\Users\\Y7000P\\Desktop\\果汁项目\\西部游戏\\Coffee Shop.mp3",
+      "runtime": "public/audio/coffee-shop.mp3",
+      "bytes": 3982475,
+      "sha256": "963ef1ae4be9e1ffb6a62370d4ededbc24db1e66da95e38accc6e1c192b9482f",
+      "sourceUnchanged": true,
+      "operation": "Read-only source copy; no transcoding or tag modification",
+      "authorization": "User-provided track, explicitly authorized copy for game BGM; no independent license claim"
+    }
+  ]
+}

@@ -1,0 +1,2405 @@
+{
+  "actor-ada-scene-v9": {
+    "url": "/art/optimized/actor-ada-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 388208
+  },
+  "actor-amos-scene-v9": {
+    "url": "/art/optimized/actor-amos-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 288534
+  },
+  "actor-beatriz-scene-v9": {
+    "url": "/art/optimized/actor-beatriz-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 402322
+  },
+  "actor-elsie-scene-v9": {
+    "url": "/art/optimized/actor-elsie-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 326290
+  },
+  "actor-hannah-scene-v9": {
+    "url": "/art/optimized/actor-hannah-scene-v9.webp",
+    "dimensions": [
+      1036,
+      1519
+    ],
+    "transparent": true,
+    "outputBytes": 375978
+  },
+  "actor-isaac-scene-v9": {
+    "url": "/art/optimized/actor-isaac-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 284394
+  },
+  "actor-leona-scene-v9": {
+    "url": "/art/optimized/actor-leona-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 319232
+  },
+  "actor-ruth-scene-v9": {
+    "url": "/art/optimized/actor-ruth-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 263442
+  },
+  "actor-simon-scene-v9": {
+    "url": "/art/optimized/actor-simon-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 380794
+  },
+  "apple-compote": {
+    "url": "/art/optimized/apple-compote.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 20772
+  },
+  "apple": {
+    "url": "/art/optimized/apple.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 17678
+  },
+  "beans": {
+    "url": "/art/optimized/beans.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 21880
+  },
+  "biscuit": {
+    "url": "/art/optimized/biscuit.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 26292
+  },
+  "blue-map": {
+    "url": "/art/optimized/blue-map.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 21020
+  },
+  "boiled-egg-v6": {
+    "url": "/art/optimized/boiled-egg-v6.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 22296
+  },
+  "boiled-potatoes-v6": {
+    "url": "/art/optimized/boiled-potatoes-v6.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 21790
+  },
+  "book-blue": {
+    "url": "/art/optimized/book-blue.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 17998
+  },
+  "book-green": {
+    "url": "/art/optimized/book-green.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 17702
+  },
+  "book-panel": {
+    "url": "/art/optimized/book-panel.webp",
+    "dimensions": [
+      1536,
+      961
+    ],
+    "transparent": true,
+    "outputBytes": 1383246
+  },
+  "book-red": {
+    "url": "/art/optimized/book-red.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 21538
+  },
+  "boots": {
+    "url": "/art/optimized/boots.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 19336
+  },
+  "brass-marker": {
+    "url": "/art/optimized/brass-marker.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 21426
+  },
+  "butter": {
+    "url": "/art/optimized/butter.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 26792
+  },
+  "button-main": {
+    "url": "/art/optimized/button-main.webp",
+    "dimensions": [
+      1024,
+      409
+    ],
+    "transparent": true,
+    "outputBytes": 301902
+  },
+  "button-small": {
+    "url": "/art/optimized/button-small.webp",
+    "dimensions": [
+      768,
+      307
+    ],
+    "transparent": true,
+    "outputBytes": 99352
+  },
+  "calendar-appointment-v8": {
+    "url": "/art/optimized/calendar-appointment-v8.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 28718
+  },
+  "calendar-birthday-v8": {
+    "url": "/art/optimized/calendar-birthday-v8.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 26040
+  },
+  "calendar-christmas-v8": {
+    "url": "/art/optimized/calendar-christmas-v8.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 30308
+  },
+  "calendar-independence-v8": {
+    "url": "/art/optimized/calendar-independence-v8.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 27126
+  },
+  "calendar-meeting-v8": {
+    "url": "/art/optimized/calendar-meeting-v8.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 22002
+  },
+  "calendar-newyear-v8": {
+    "url": "/art/optimized/calendar-newyear-v8.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 30910
+  },
+  "calendar-spring-v8": {
+    "url": "/art/optimized/calendar-spring-v8.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 35354
+  },
+  "calendar-thanksgiving-v8": {
+    "url": "/art/optimized/calendar-thanksgiving-v8.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 25208
+  },
+  "canteen": {
+    "url": "/art/optimized/canteen.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 25582
+  },
+  "coffee": {
+    "url": "/art/optimized/coffee.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 16304
+  },
+  "compass": {
+    "url": "/art/optimized/compass.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 21138
+  },
+  "cornbread": {
+    "url": "/art/optimized/cornbread.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 26894
+  },
+  "cornmeal-mush-v6": {
+    "url": "/art/optimized/cornmeal-mush-v6.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 21562
+  },
+  "cornmeal": {
+    "url": "/art/optimized/cornmeal.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 32060
+  },
+  "cursor-arrow-v11-32": {
+    "url": "/art/optimized/cursor-arrow-v11-32.webp",
+    "dimensions": [
+      32,
+      32
+    ],
+    "transparent": true,
+    "outputBytes": 1706
+  },
+  "cursor-arrow-v11-40": {
+    "url": "/art/optimized/cursor-arrow-v11-40.webp",
+    "dimensions": [
+      40,
+      40
+    ],
+    "transparent": true,
+    "outputBytes": 2336
+  },
+  "cursor-interact-v11-32": {
+    "url": "/art/optimized/cursor-interact-v11-32.webp",
+    "dimensions": [
+      32,
+      32
+    ],
+    "transparent": true,
+    "outputBytes": 1698
+  },
+  "cursor-interact-v11-40": {
+    "url": "/art/optimized/cursor-interact-v11-40.webp",
+    "dimensions": [
+      40,
+      40
+    ],
+    "transparent": true,
+    "outputBytes": 2426
+  },
+  "cursor-interact-v12-32": {
+    "url": "/art/optimized/cursor-interact-v12-32.webp",
+    "dimensions": [
+      32,
+      32
+    ],
+    "transparent": true,
+    "outputBytes": 1932
+  },
+  "cursor-interact-v12-44": {
+    "url": "/art/optimized/cursor-interact-v12-44.webp",
+    "dimensions": [
+      44,
+      44
+    ],
+    "transparent": true,
+    "outputBytes": 3188
+  },
+  "cursor-v10": {
+    "url": "/art/optimized/cursor-v10.webp",
+    "dimensions": [
+      32,
+      32
+    ],
+    "transparent": true,
+    "outputBytes": 1476
+  },
+  "cursor": {
+    "url": "/art/optimized/cursor.webp",
+    "dimensions": [
+      64,
+      64
+    ],
+    "transparent": true,
+    "outputBytes": 2964
+  },
+  "dry-beans": {
+    "url": "/art/optimized/dry-beans.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 26022
+  },
+  "dutch-oven": {
+    "url": "/art/optimized/dutch-oven.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 26532
+  },
+  "egg": {
+    "url": "/art/optimized/egg.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 19950
+  },
+  "flour": {
+    "url": "/art/optimized/flour.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 29348
+  },
+  "fried-fish": {
+    "url": "/art/optimized/fried-fish.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 26046
+  },
+  "gear": {
+    "url": "/art/optimized/gear.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 23520
+  },
+  "gramophone": {
+    "url": "/art/optimized/gramophone.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 21454
+  },
+  "icon-achievement-v3": {
+    "url": "/art/optimized/icon-achievement-v3.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 15544
+  },
+  "icon-camp": {
+    "url": "/art/optimized/icon-camp.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 20366
+  },
+  "icon-coin": {
+    "url": "/art/optimized/icon-coin.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 28876
+  },
+  "icon-court": {
+    "url": "/art/optimized/icon-court.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 30672
+  },
+  "icon-frame": {
+    "url": "/art/optimized/icon-frame.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 43862
+  },
+  "icon-library": {
+    "url": "/art/optimized/icon-library.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 24512
+  },
+  "icon-mine": {
+    "url": "/art/optimized/icon-mine.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 30212
+  },
+  "icon-post": {
+    "url": "/art/optimized/icon-post.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 29452
+  },
+  "icon-ridge": {
+    "url": "/art/optimized/icon-ridge.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 30804
+  },
+  "icon-station": {
+    "url": "/art/optimized/icon-station.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 31314
+  },
+  "icon-step-done": {
+    "url": "/art/optimized/icon-step-done.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 20440
+  },
+  "icon-step": {
+    "url": "/art/optimized/icon-step.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 20010
+  },
+  "icon-store": {
+    "url": "/art/optimized/icon-store.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 30518
+  },
+  "icon-talk-v3": {
+    "url": "/art/optimized/icon-talk-v3.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 19154
+  },
+  "icon-town": {
+    "url": "/art/optimized/icon-town.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 27756
+  },
+  "jerky": {
+    "url": "/art/optimized/jerky.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 23030
+  },
+  "lantern": {
+    "url": "/art/optimized/lantern.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 21452
+  },
+  "leaf": {
+    "url": "/art/optimized/leaf.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 13780
+  },
+  "logo-emblem": {
+    "url": "/art/optimized/logo-emblem.webp",
+    "dimensions": [
+      768,
+      768
+    ],
+    "transparent": true,
+    "outputBytes": 610140
+  },
+  "milk": {
+    "url": "/art/optimized/milk.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 22996
+  },
+  "newspaper": {
+    "url": "/art/optimized/newspaper.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 11952
+  },
+  "notebook": {
+    "url": "/art/optimized/notebook.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 17606
+  },
+  "noticeboard": {
+    "url": "/art/optimized/noticeboard.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 26086
+  },
+  "onion": {
+    "url": "/art/optimized/onion.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 30632
+  },
+  "pan-potatoes": {
+    "url": "/art/optimized/pan-potatoes.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 24882
+  },
+  "panel": {
+    "url": "/art/optimized/panel.webp",
+    "dimensions": [
+      1448,
+      1086
+    ],
+    "transparent": true,
+    "outputBytes": 1728004
+  },
+  "pickaxe": {
+    "url": "/art/optimized/pickaxe.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 12934
+  },
+  "portrait-ada-autumn-dialogue-v9": {
+    "url": "/art/optimized/portrait-ada-autumn-dialogue-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 386238
+  },
+  "portrait-ada-autumn-scene-v9": {
+    "url": "/art/optimized/portrait-ada-autumn-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 415272
+  },
+  "portrait-ada-original-v9": {
+    "url": "/art/optimized/portrait-ada-original-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 402462
+  },
+  "portrait-ada-spring-dialogue-v9": {
+    "url": "/art/optimized/portrait-ada-spring-dialogue-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 307066
+  },
+  "portrait-ada-spring-scene-v9": {
+    "url": "/art/optimized/portrait-ada-spring-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 377156
+  },
+  "portrait-ada-summer-dialogue-v9": {
+    "url": "/art/optimized/portrait-ada-summer-dialogue-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 297716
+  },
+  "portrait-ada-summer-scene-v9": {
+    "url": "/art/optimized/portrait-ada-summer-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 370046
+  },
+  "portrait-ada-winter-dialogue-v9": {
+    "url": "/art/optimized/portrait-ada-winter-dialogue-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 321656
+  },
+  "portrait-ada-winter-scene-v9": {
+    "url": "/art/optimized/portrait-ada-winter-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 376428
+  },
+  "portrait-amos-autumn-dialogue-v9": {
+    "url": "/art/optimized/portrait-amos-autumn-dialogue-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 251592
+  },
+  "portrait-amos-autumn-scene-v9": {
+    "url": "/art/optimized/portrait-amos-autumn-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 265968
+  },
+  "portrait-amos-original-v9": {
+    "url": "/art/optimized/portrait-amos-original-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 248682
+  },
+  "portrait-amos-spring-dialogue-v9": {
+    "url": "/art/optimized/portrait-amos-spring-dialogue-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 229254
+  },
+  "portrait-amos-spring-scene-v9": {
+    "url": "/art/optimized/portrait-amos-spring-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 262918
+  },
+  "portrait-amos-summer-dialogue-v9": {
+    "url": "/art/optimized/portrait-amos-summer-dialogue-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 224428
+  },
+  "portrait-amos-summer-scene-v9": {
+    "url": "/art/optimized/portrait-amos-summer-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 250280
+  },
+  "portrait-amos-winter-dialogue-v9": {
+    "url": "/art/optimized/portrait-amos-winter-dialogue-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 276482
+  },
+  "portrait-amos-winter-scene-v9": {
+    "url": "/art/optimized/portrait-amos-winter-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 304808
+  },
+  "portrait-beatriz-autumn-dialogue-v9": {
+    "url": "/art/optimized/portrait-beatriz-autumn-dialogue-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 356568
+  },
+  "portrait-beatriz-autumn-scene-v9": {
+    "url": "/art/optimized/portrait-beatriz-autumn-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 405938
+  },
+  "portrait-beatriz-original-v9": {
+    "url": "/art/optimized/portrait-beatriz-original-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 397168
+  },
+  "portrait-beatriz-spring-dialogue-v9": {
+    "url": "/art/optimized/portrait-beatriz-spring-dialogue-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 350112
+  },
+  "portrait-beatriz-spring-scene-v9": {
+    "url": "/art/optimized/portrait-beatriz-spring-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 383252
+  },
+  "portrait-beatriz-summer-dialogue-v9": {
+    "url": "/art/optimized/portrait-beatriz-summer-dialogue-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 285830
+  },
+  "portrait-beatriz-summer-scene-v9": {
+    "url": "/art/optimized/portrait-beatriz-summer-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 343426
+  },
+  "portrait-beatriz-winter-dialogue-v9": {
+    "url": "/art/optimized/portrait-beatriz-winter-dialogue-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 364876
+  },
+  "portrait-beatriz-winter-scene-v9": {
+    "url": "/art/optimized/portrait-beatriz-winter-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 412616
+  },
+  "portrait-carpenter": {
+    "url": "/art/optimized/portrait-carpenter.webp",
+    "dimensions": [
+      683,
+      1024
+    ],
+    "transparent": true,
+    "outputBytes": 202180
+  },
+  "portrait-clara-autumn-dialogue-v9": {
+    "url": "/art/optimized/portrait-clara-autumn-dialogue-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 203862
+  },
+  "portrait-clara-autumn-scene-v9": {
+    "url": "/art/optimized/portrait-clara-autumn-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 215946
+  },
+  "portrait-clara-dialogue-v9": {
+    "url": "/art/optimized/portrait-clara-dialogue-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 190768
+  },
+  "portrait-clara-evening-autumn-dialogue-v10": {
+    "url": "/art/optimized/portrait-clara-evening-autumn-dialogue-v10.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 153510
+  },
+  "portrait-clara-evening-autumn-scene-v10": {
+    "url": "/art/optimized/portrait-clara-evening-autumn-scene-v10.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 158466
+  },
+  "portrait-clara-evening-dialogue-v9": {
+    "url": "/art/optimized/portrait-clara-evening-dialogue-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 166358
+  },
+  "portrait-clara-evening-spring-dialogue-v10": {
+    "url": "/art/optimized/portrait-clara-evening-spring-dialogue-v10.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 180738
+  },
+  "portrait-clara-evening-spring-scene-v10": {
+    "url": "/art/optimized/portrait-clara-evening-spring-scene-v10.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 188780
+  },
+  "portrait-clara-evening-summer-dialogue-v10": {
+    "url": "/art/optimized/portrait-clara-evening-summer-dialogue-v10.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 144914
+  },
+  "portrait-clara-evening-summer-scene-v10": {
+    "url": "/art/optimized/portrait-clara-evening-summer-scene-v10.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 166104
+  },
+  "portrait-clara-evening-v4-original-v9": {
+    "url": "/art/optimized/portrait-clara-evening-v4-original-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 154556
+  },
+  "portrait-clara-evening-v4": {
+    "url": "/art/optimized/portrait-clara-evening-v4.webp",
+    "dimensions": [
+      683,
+      1024
+    ],
+    "transparent": true,
+    "outputBytes": 88246
+  },
+  "portrait-clara-evening-winter-dialogue-v10": {
+    "url": "/art/optimized/portrait-clara-evening-winter-dialogue-v10.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 160512
+  },
+  "portrait-clara-evening-winter-scene-v10": {
+    "url": "/art/optimized/portrait-clara-evening-winter-scene-v10.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 167620
+  },
+  "portrait-clara-evening": {
+    "url": "/art/optimized/portrait-clara-evening.webp",
+    "dimensions": [
+      683,
+      1024
+    ],
+    "transparent": true,
+    "outputBytes": 88334
+  },
+  "portrait-clara-original-v9": {
+    "url": "/art/optimized/portrait-clara-original-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 209792
+  },
+  "portrait-clara-scene-v9": {
+    "url": "/art/optimized/portrait-clara-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 194054
+  },
+  "portrait-clara-spring-dialogue-v9": {
+    "url": "/art/optimized/portrait-clara-spring-dialogue-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 203086
+  },
+  "portrait-clara-spring-scene-v9": {
+    "url": "/art/optimized/portrait-clara-spring-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 214146
+  },
+  "portrait-clara-summer-dialogue-v9": {
+    "url": "/art/optimized/portrait-clara-summer-dialogue-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 195316
+  },
+  "portrait-clara-summer-scene-v9": {
+    "url": "/art/optimized/portrait-clara-summer-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 214496
+  },
+  "portrait-clara-winter-dialogue-v9": {
+    "url": "/art/optimized/portrait-clara-winter-dialogue-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 185902
+  },
+  "portrait-clara-winter-v4-original-v9": {
+    "url": "/art/optimized/portrait-clara-winter-v4-original-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 184260
+  },
+  "portrait-clara-winter-v4": {
+    "url": "/art/optimized/portrait-clara-winter-v4.webp",
+    "dimensions": [
+      683,
+      1024
+    ],
+    "transparent": true,
+    "outputBytes": 101678
+  },
+  "portrait-clara-winter": {
+    "url": "/art/optimized/portrait-clara-winter.webp",
+    "dimensions": [
+      683,
+      1024
+    ],
+    "transparent": true,
+    "outputBytes": 100802
+  },
+  "portrait-clara": {
+    "url": "/art/optimized/portrait-clara.webp",
+    "dimensions": [
+      683,
+      1024
+    ],
+    "transparent": true,
+    "outputBytes": 119792
+  },
+  "portrait-clerk": {
+    "url": "/art/optimized/portrait-clerk.webp",
+    "dimensions": [
+      683,
+      1024
+    ],
+    "transparent": true,
+    "outputBytes": 143374
+  },
+  "portrait-cook": {
+    "url": "/art/optimized/portrait-cook.webp",
+    "dimensions": [
+      683,
+      1024
+    ],
+    "transparent": true,
+    "outputBytes": 202538
+  },
+  "portrait-courier": {
+    "url": "/art/optimized/portrait-courier.webp",
+    "dimensions": [
+      683,
+      1024
+    ],
+    "transparent": true,
+    "outputBytes": 163904
+  },
+  "portrait-elsie-autumn-dialogue-v9": {
+    "url": "/art/optimized/portrait-elsie-autumn-dialogue-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 273802
+  },
+  "portrait-elsie-autumn-scene-v9": {
+    "url": "/art/optimized/portrait-elsie-autumn-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 292576
+  },
+  "portrait-elsie-dialogue-v9": {
+    "url": "/art/optimized/portrait-elsie-dialogue-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 262882
+  },
+  "portrait-elsie-original-v9": {
+    "url": "/art/optimized/portrait-elsie-original-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 298778
+  },
+  "portrait-elsie-spring-dialogue-v9": {
+    "url": "/art/optimized/portrait-elsie-spring-dialogue-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 249766
+  },
+  "portrait-elsie-spring-scene-v9": {
+    "url": "/art/optimized/portrait-elsie-spring-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 272340
+  },
+  "portrait-elsie-summer-dialogue-v9": {
+    "url": "/art/optimized/portrait-elsie-summer-dialogue-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 290410
+  },
+  "portrait-elsie-summer-scene-v9": {
+    "url": "/art/optimized/portrait-elsie-summer-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 312156
+  },
+  "portrait-elsie-winter-dialogue-v9": {
+    "url": "/art/optimized/portrait-elsie-winter-dialogue-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 266232
+  },
+  "portrait-elsie-winter-scene-v9": {
+    "url": "/art/optimized/portrait-elsie-winter-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 292038
+  },
+  "portrait-foreman": {
+    "url": "/art/optimized/portrait-foreman.webp",
+    "dimensions": [
+      683,
+      1024
+    ],
+    "transparent": true,
+    "outputBytes": 131260
+  },
+  "portrait-gideon-original-v9": {
+    "url": "/art/optimized/portrait-gideon-original-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 181654
+  },
+  "portrait-gideon": {
+    "url": "/art/optimized/portrait-gideon.webp",
+    "dimensions": [
+      683,
+      1024
+    ],
+    "transparent": true,
+    "outputBytes": 101222
+  },
+  "portrait-hannah-autumn-dialogue-v9": {
+    "url": "/art/optimized/portrait-hannah-autumn-dialogue-v9.webp",
+    "dimensions": [
+      1036,
+      1518
+    ],
+    "transparent": true,
+    "outputBytes": 332780
+  },
+  "portrait-hannah-autumn-scene-v9": {
+    "url": "/art/optimized/portrait-hannah-autumn-scene-v9.webp",
+    "dimensions": [
+      1036,
+      1518
+    ],
+    "transparent": true,
+    "outputBytes": 373288
+  },
+  "portrait-hannah-original-v9": {
+    "url": "/art/optimized/portrait-hannah-original-v9.webp",
+    "dimensions": [
+      1035,
+      1519
+    ],
+    "transparent": true,
+    "outputBytes": 335330
+  },
+  "portrait-hannah-spring-dialogue-v9": {
+    "url": "/art/optimized/portrait-hannah-spring-dialogue-v9.webp",
+    "dimensions": [
+      1036,
+      1518
+    ],
+    "transparent": true,
+    "outputBytes": 278868
+  },
+  "portrait-hannah-spring-scene-v9": {
+    "url": "/art/optimized/portrait-hannah-spring-scene-v9.webp",
+    "dimensions": [
+      1036,
+      1518
+    ],
+    "transparent": true,
+    "outputBytes": 324592
+  },
+  "portrait-hannah-summer-dialogue-v9": {
+    "url": "/art/optimized/portrait-hannah-summer-dialogue-v9.webp",
+    "dimensions": [
+      1036,
+      1518
+    ],
+    "transparent": true,
+    "outputBytes": 238934
+  },
+  "portrait-hannah-summer-scene-v9": {
+    "url": "/art/optimized/portrait-hannah-summer-scene-v9.webp",
+    "dimensions": [
+      1036,
+      1518
+    ],
+    "transparent": true,
+    "outputBytes": 283120
+  },
+  "portrait-hannah-winter-dialogue-v9": {
+    "url": "/art/optimized/portrait-hannah-winter-dialogue-v9.webp",
+    "dimensions": [
+      1036,
+      1518
+    ],
+    "transparent": true,
+    "outputBytes": 325894
+  },
+  "portrait-hannah-winter-scene-v9": {
+    "url": "/art/optimized/portrait-hannah-winter-scene-v9.webp",
+    "dimensions": [
+      1036,
+      1518
+    ],
+    "transparent": true,
+    "outputBytes": 379748
+  },
+  "portrait-isaac-autumn-dialogue-v9": {
+    "url": "/art/optimized/portrait-isaac-autumn-dialogue-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 224416
+  },
+  "portrait-isaac-autumn-scene-v9": {
+    "url": "/art/optimized/portrait-isaac-autumn-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 255882
+  },
+  "portrait-isaac-original-v9": {
+    "url": "/art/optimized/portrait-isaac-original-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 220792
+  },
+  "portrait-isaac-spring-dialogue-v9": {
+    "url": "/art/optimized/portrait-isaac-spring-dialogue-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 235038
+  },
+  "portrait-isaac-spring-scene-v9": {
+    "url": "/art/optimized/portrait-isaac-spring-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 254270
+  },
+  "portrait-isaac-summer-dialogue-v9": {
+    "url": "/art/optimized/portrait-isaac-summer-dialogue-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 218882
+  },
+  "portrait-isaac-summer-scene-v9": {
+    "url": "/art/optimized/portrait-isaac-summer-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 244930
+  },
+  "portrait-isaac-winter-dialogue-v9": {
+    "url": "/art/optimized/portrait-isaac-winter-dialogue-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 253364
+  },
+  "portrait-isaac-winter-scene-v9": {
+    "url": "/art/optimized/portrait-isaac-winter-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 297294
+  },
+  "portrait-leona-autumn-dialogue-v9": {
+    "url": "/art/optimized/portrait-leona-autumn-dialogue-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 278804
+  },
+  "portrait-leona-autumn-scene-v9": {
+    "url": "/art/optimized/portrait-leona-autumn-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 280390
+  },
+  "portrait-leona-original-v9": {
+    "url": "/art/optimized/portrait-leona-original-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 281402
+  },
+  "portrait-leona-spring-dialogue-v9": {
+    "url": "/art/optimized/portrait-leona-spring-dialogue-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 248374
+  },
+  "portrait-leona-spring-scene-v9": {
+    "url": "/art/optimized/portrait-leona-spring-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 266146
+  },
+  "portrait-leona-summer-dialogue-v9": {
+    "url": "/art/optimized/portrait-leona-summer-dialogue-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 236802
+  },
+  "portrait-leona-summer-scene-v9": {
+    "url": "/art/optimized/portrait-leona-summer-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 254192
+  },
+  "portrait-leona-winter-dialogue-v9": {
+    "url": "/art/optimized/portrait-leona-winter-dialogue-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 270430
+  },
+  "portrait-leona-winter-scene-v9": {
+    "url": "/art/optimized/portrait-leona-winter-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 269114
+  },
+  "portrait-librarian": {
+    "url": "/art/optimized/portrait-librarian.webp",
+    "dimensions": [
+      698,
+      1024
+    ],
+    "transparent": true,
+    "outputBytes": 172218
+  },
+  "portrait-ruth-autumn-dialogue-v9": {
+    "url": "/art/optimized/portrait-ruth-autumn-dialogue-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 269918
+  },
+  "portrait-ruth-autumn-scene-v9": {
+    "url": "/art/optimized/portrait-ruth-autumn-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 277334
+  },
+  "portrait-ruth-original-v9": {
+    "url": "/art/optimized/portrait-ruth-original-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 235850
+  },
+  "portrait-ruth-spring-dialogue-v9": {
+    "url": "/art/optimized/portrait-ruth-spring-dialogue-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 230790
+  },
+  "portrait-ruth-spring-scene-v9": {
+    "url": "/art/optimized/portrait-ruth-spring-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 235890
+  },
+  "portrait-ruth-summer-dialogue-v9": {
+    "url": "/art/optimized/portrait-ruth-summer-dialogue-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 208238
+  },
+  "portrait-ruth-summer-scene-v9": {
+    "url": "/art/optimized/portrait-ruth-summer-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 222294
+  },
+  "portrait-ruth-winter-dialogue-v9": {
+    "url": "/art/optimized/portrait-ruth-winter-dialogue-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 229244
+  },
+  "portrait-ruth-winter-scene-v9": {
+    "url": "/art/optimized/portrait-ruth-winter-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 243136
+  },
+  "portrait-ruth": {
+    "url": "/art/optimized/portrait-ruth.webp",
+    "dimensions": [
+      683,
+      1024
+    ],
+    "transparent": true,
+    "outputBytes": 125250
+  },
+  "portrait-silas-original-v9": {
+    "url": "/art/optimized/portrait-silas-original-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 275596
+  },
+  "portrait-silas": {
+    "url": "/art/optimized/portrait-silas.webp",
+    "dimensions": [
+      683,
+      1024
+    ],
+    "transparent": true,
+    "outputBytes": 150172
+  },
+  "portrait-simon-autumn-dialogue-v9": {
+    "url": "/art/optimized/portrait-simon-autumn-dialogue-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 302082
+  },
+  "portrait-simon-autumn-scene-v9": {
+    "url": "/art/optimized/portrait-simon-autumn-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 337542
+  },
+  "portrait-simon-original-v9": {
+    "url": "/art/optimized/portrait-simon-original-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 392838
+  },
+  "portrait-simon-spring-dialogue-v9": {
+    "url": "/art/optimized/portrait-simon-spring-dialogue-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 280836
+  },
+  "portrait-simon-spring-scene-v9": {
+    "url": "/art/optimized/portrait-simon-spring-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 316622
+  },
+  "portrait-simon-summer-dialogue-v9": {
+    "url": "/art/optimized/portrait-simon-summer-dialogue-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 283116
+  },
+  "portrait-simon-summer-scene-v9": {
+    "url": "/art/optimized/portrait-simon-summer-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 312106
+  },
+  "portrait-simon-winter-dialogue-v9": {
+    "url": "/art/optimized/portrait-simon-winter-dialogue-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 326074
+  },
+  "portrait-simon-winter-scene-v9": {
+    "url": "/art/optimized/portrait-simon-winter-scene-v9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "transparent": true,
+    "outputBytes": 379178
+  },
+  "portrait-trader": {
+    "url": "/art/optimized/portrait-trader.webp",
+    "dimensions": [
+      683,
+      1024
+    ],
+    "transparent": true,
+    "outputBytes": 198198
+  },
+  "portrait-traveler": {
+    "url": "/art/optimized/portrait-traveler.webp",
+    "dimensions": [
+      683,
+      1024
+    ],
+    "transparent": true,
+    "outputBytes": 118664
+  },
+  "potato": {
+    "url": "/art/optimized/potato.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 28078
+  },
+  "projector": {
+    "url": "/art/optimized/projector.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 20412
+  },
+  "raw-beef": {
+    "url": "/art/optimized/raw-beef.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 25264
+  },
+  "raw-fish": {
+    "url": "/art/optimized/raw-fish.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 25020
+  },
+  "raw-pork": {
+    "url": "/art/optimized/raw-pork.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 25660
+  },
+  "revolver": {
+    "url": "/art/optimized/revolver.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 15856
+  },
+  "ribbon": {
+    "url": "/art/optimized/ribbon.webp",
+    "dimensions": [
+      1024,
+      341
+    ],
+    "transparent": true,
+    "outputBytes": 181892
+  },
+  "rope": {
+    "url": "/art/optimized/rope.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 24292
+  },
+  "satchel": {
+    "url": "/art/optimized/satchel.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 28396
+  },
+  "saucepan": {
+    "url": "/art/optimized/saucepan.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 19850
+  },
+  "scrambled-eggs": {
+    "url": "/art/optimized/scrambled-eggs.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 22468
+  },
+  "skillet": {
+    "url": "/art/optimized/skillet.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 20084
+  },
+  "slot": {
+    "url": "/art/optimized/slot.webp",
+    "dimensions": [
+      768,
+      768
+    ],
+    "transparent": true,
+    "outputBytes": 533250
+  },
+  "status-ill-v8": {
+    "url": "/art/optimized/status-ill-v8.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 22814
+  },
+  "status-satiety-v8": {
+    "url": "/art/optimized/status-satiety-v8.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 25532
+  },
+  "status-stamina-v8": {
+    "url": "/art/optimized/status-stamina-v8.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 16244
+  },
+  "status-tired-v8": {
+    "url": "/art/optimized/status-tired-v8.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 23694
+  },
+  "stew": {
+    "url": "/art/optimized/stew.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 21268
+  },
+  "suit-club-v5": {
+    "url": "/art/optimized/suit-club-v5.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 20972
+  },
+  "suit-diamond-v5": {
+    "url": "/art/optimized/suit-diamond-v5.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 13938
+  },
+  "suit-heart-v5": {
+    "url": "/art/optimized/suit-heart-v5.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 19220
+  },
+  "suit-spade-v5": {
+    "url": "/art/optimized/suit-spade-v5.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 19752
+  },
+  "telegram": {
+    "url": "/art/optimized/telegram.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 15320
+  },
+  "throat-lozenges-v5": {
+    "url": "/art/optimized/throat-lozenges-v5.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 21772
+  },
+  "thumb-camp-v8": {
+    "url": "/art/optimized/thumb-camp-v8.webp",
+    "dimensions": [
+      384,
+      216
+    ],
+    "transparent": false,
+    "outputBytes": 45598
+  },
+  "thumb-court-v8": {
+    "url": "/art/optimized/thumb-court-v8.webp",
+    "dimensions": [
+      384,
+      216
+    ],
+    "transparent": false,
+    "outputBytes": 39584
+  },
+  "thumb-library-v8": {
+    "url": "/art/optimized/thumb-library-v8.webp",
+    "dimensions": [
+      384,
+      216
+    ],
+    "transparent": false,
+    "outputBytes": 32898
+  },
+  "thumb-mine-v8": {
+    "url": "/art/optimized/thumb-mine-v8.webp",
+    "dimensions": [
+      384,
+      216
+    ],
+    "transparent": false,
+    "outputBytes": 38712
+  },
+  "thumb-post-v8": {
+    "url": "/art/optimized/thumb-post-v8.webp",
+    "dimensions": [
+      384,
+      216
+    ],
+    "transparent": false,
+    "outputBytes": 27156
+  },
+  "thumb-ridge-v8": {
+    "url": "/art/optimized/thumb-ridge-v8.webp",
+    "dimensions": [
+      384,
+      216
+    ],
+    "transparent": false,
+    "outputBytes": 40442
+  },
+  "thumb-station-v8": {
+    "url": "/art/optimized/thumb-station-v8.webp",
+    "dimensions": [
+      384,
+      216
+    ],
+    "transparent": false,
+    "outputBytes": 38364
+  },
+  "thumb-store-v8": {
+    "url": "/art/optimized/thumb-store-v8.webp",
+    "dimensions": [
+      384,
+      216
+    ],
+    "transparent": false,
+    "outputBytes": 30774
+  },
+  "thumb-town-v8": {
+    "url": "/art/optimized/thumb-town-v8.webp",
+    "dimensions": [
+      384,
+      216
+    ],
+    "transparent": false,
+    "outputBytes": 38080
+  },
+  "ui-achievement-toast-v4": {
+    "url": "/art/optimized/ui-achievement-toast-v4.webp",
+    "dimensions": [
+      2172,
+      724
+    ],
+    "transparent": true,
+    "outputBytes": 118816
+  },
+  "ui-button-selected-v6": {
+    "url": "/art/optimized/ui-button-selected-v6.webp",
+    "dimensions": [
+      2172,
+      724
+    ],
+    "transparent": true,
+    "outputBytes": 256214
+  },
+  "ui-button-v3": {
+    "url": "/art/optimized/ui-button-v3.webp",
+    "dimensions": [
+      2172,
+      724
+    ],
+    "transparent": true,
+    "outputBytes": 200384
+  },
+  "ui-calendar-selection-v8": {
+    "url": "/art/optimized/ui-calendar-selection-v8.webp",
+    "dimensions": [
+      1002,
+      679
+    ],
+    "transparent": true,
+    "outputBytes": 89024
+  },
+  "ui-clippings-v11": {
+    "url": "/art/optimized/ui-clippings-v11.webp",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "transparent": true,
+    "outputBytes": 392388
+  },
+  "ui-close-v3": {
+    "url": "/art/optimized/ui-close-v3.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 64182
+  },
+  "ui-deduction-v13": {
+    "url": "/art/optimized/ui-deduction-v13.webp",
+    "dimensions": [
+      512,
+      512
+    ],
+    "transparent": true,
+    "outputBytes": 72156
+  },
+  "ui-die-v5": {
+    "url": "/art/optimized/ui-die-v5.webp",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "transparent": true,
+    "outputBytes": 297608
+  },
+  "ui-gauge-v8": {
+    "url": "/art/optimized/ui-gauge-v8.webp",
+    "dimensions": [
+      1442,
+      229
+    ],
+    "transparent": true,
+    "outputBytes": 73476
+  },
+  "ui-gramophone-menu-v8": {
+    "url": "/art/optimized/ui-gramophone-menu-v8.webp",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "transparent": true,
+    "outputBytes": 404592
+  },
+  "ui-handbook-row-v6": {
+    "url": "/art/optimized/ui-handbook-row-v6.webp",
+    "dimensions": [
+      2172,
+      184
+    ],
+    "transparent": true,
+    "outputBytes": 115184
+  },
+  "ui-held-item-v13": {
+    "url": "/art/optimized/ui-held-item-v13.webp",
+    "dimensions": [
+      512,
+      512
+    ],
+    "transparent": true,
+    "outputBytes": 60326
+  },
+  "ui-hub-strip-v3": {
+    "url": "/art/optimized/ui-hub-strip-v3.webp",
+    "dimensions": [
+      2172,
+      724
+    ],
+    "transparent": true,
+    "outputBytes": 161742
+  },
+  "ui-map-minus": {
+    "url": "/art/optimized/ui-map-minus.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 60282
+  },
+  "ui-map-plus": {
+    "url": "/art/optimized/ui-map-plus.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 65198
+  },
+  "ui-option-v3": {
+    "url": "/art/optimized/ui-option-v3.webp",
+    "dimensions": [
+      2172,
+      724
+    ],
+    "transparent": true,
+    "outputBytes": 118484
+  },
+  "ui-pan-left-v6": {
+    "url": "/art/optimized/ui-pan-left-v6.webp",
+    "dimensions": [
+      1086,
+      1448
+    ],
+    "transparent": true,
+    "outputBytes": 125226
+  },
+  "ui-panel-base-v4": {
+    "url": "/art/optimized/ui-panel-base-v4.webp",
+    "dimensions": [
+      1448,
+      1086
+    ],
+    "transparent": true,
+    "outputBytes": 142312
+  },
+  "ui-panel-tall-v3": {
+    "url": "/art/optimized/ui-panel-tall-v3.webp",
+    "dimensions": [
+      1122,
+      1402
+    ],
+    "transparent": true,
+    "outputBytes": 390714
+  },
+  "ui-panel-tall-v4": {
+    "url": "/art/optimized/ui-panel-tall-v4.webp",
+    "dimensions": [
+      1122,
+      1402
+    ],
+    "transparent": true,
+    "outputBytes": 201610
+  },
+  "ui-panel-wide-v3": {
+    "url": "/art/optimized/ui-panel-wide-v3.webp",
+    "dimensions": [
+      1586,
+      992
+    ],
+    "transparent": true,
+    "outputBytes": 356842
+  },
+  "ui-panel-wide-v4": {
+    "url": "/art/optimized/ui-panel-wide-v4.webp",
+    "dimensions": [
+      1585,
+      992
+    ],
+    "transparent": true,
+    "outputBytes": 124916
+  },
+  "ui-recipe-row-v11": {
+    "url": "/art/optimized/ui-recipe-row-v11.webp",
+    "dimensions": [
+      2091,
+      415
+    ],
+    "transparent": true,
+    "outputBytes": 138038
+  },
+  "ui-row-v3": {
+    "url": "/art/optimized/ui-row-v3.webp",
+    "dimensions": [
+      2172,
+      724
+    ],
+    "transparent": false,
+    "outputBytes": 390484
+  },
+  "ui-save-slot-v4": {
+    "url": "/art/optimized/ui-save-slot-v4.webp",
+    "dimensions": [
+      2172,
+      724
+    ],
+    "transparent": true,
+    "outputBytes": 318794
+  },
+  "ui-slot-add-v13": {
+    "url": "/art/optimized/ui-slot-add-v13.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 8328
+  },
+  "watch-case-v4": {
+    "url": "/art/optimized/watch-case-v4.webp",
+    "dimensions": [
+      512,
+      512
+    ],
+    "transparent": true,
+    "outputBytes": 51994
+  },
+  "watch-hour-v4": {
+    "url": "/art/optimized/watch-hour-v4.webp",
+    "dimensions": [
+      512,
+      512
+    ],
+    "transparent": true,
+    "outputBytes": 10926
+  },
+  "watch-minute-v4": {
+    "url": "/art/optimized/watch-minute-v4.webp",
+    "dimensions": [
+      512,
+      512
+    ],
+    "transparent": true,
+    "outputBytes": 7346
+  },
+  "watch-second-v5": {
+    "url": "/art/optimized/watch-second-v5.webp",
+    "dimensions": [
+      512,
+      512
+    ],
+    "transparent": true,
+    "outputBytes": 6032
+  },
+  "willow-bark-v5": {
+    "url": "/art/optimized/willow-bark-v5.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "transparent": true,
+    "outputBytes": 18796
+  },
+  "scene-title-v9": {
+    "url": "/art/optimized/scene-title-v9.webp",
+    "dimensions": [
+      3840,
+      2160
+    ],
+    "outputBytes": 2113220,
+    "sha256": "67346b510e96a9ce5c3954c3c4da105b25f19d766a5ecec3dbef7c65bd61ab9f"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "map-symbol-court-v19": {
+    "url": "/art/v19/map-symbol-court-v19.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "outputBytes": 48050,
+    "sha256": "f376e12b85c12ef45d50955db457af127c96216694f40aca21d905e87f8e68ef"
+  },
+  "map-symbol-library-v19": {
+    "url": "/art/v19/map-symbol-library-v19.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "outputBytes": 40334,
+    "sha256": "fb0c3a01b32e423b44e44982a80864f1c190bcb87ec7c5ed5c9f3de7295e1271"
+  },
+  "map-symbol-mine-v19": {
+    "url": "/art/v19/map-symbol-mine-v19.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "outputBytes": 37446,
+    "sha256": "441ce7b5d971984154a9446f33c1fef7211ea396601ddb64e6d34101475af2df"
+  },
+  "map-symbol-post-v19": {
+    "url": "/art/v19/map-symbol-post-v19.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "outputBytes": 41678,
+    "sha256": "37dc7a0acb0afb2343e01a52fd84723f81c3eb76b3d4e752b6e8ef1238a9c26f"
+  },
+  "map-symbol-ridge-v19": {
+    "url": "/art/v19/map-symbol-ridge-v19.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "outputBytes": 35580,
+    "sha256": "0c7fe913acbdc7c3297a20cc2d33553e9b92e9a385dc8d866dde22e390e01ce8"
+  },
+  "map-symbol-station-v19": {
+    "url": "/art/v19/map-symbol-station-v19.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "outputBytes": 47492,
+    "sha256": "be7512657bf224e17ea523fc403c3a450d826c03a94cb5b220e790fbc04d6a4f"
+  },
+  "map-symbol-store-v19": {
+    "url": "/art/v19/map-symbol-store-v19.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "outputBytes": 49946,
+    "sha256": "fd8d92a4c56cdc8d59db418aef8ddb539b2114a49b2145439a2a358b636e476b"
+  },
+  "map-symbol-town-v19": {
+    "url": "/art/v19/map-symbol-town-v19.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "outputBytes": 37936,
+    "sha256": "7c79048c92bcf36b165b1bccef78e253211b96405bd6c14bd71bf0938eed01d9"
+  },
+  "ui-labor-v19": {
+    "url": "/art/v19/ui-labor-v19.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "outputBytes": 52324,
+    "sha256": "c012a619efdf9c28aaa6a885d5a80be3b30a7b85ee57cf1ab568028e04daabd7"
+  }
+}

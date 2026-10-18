@@ -1,0 +1,20 @@
+{
+  "map-carson-v20": {
+    "url": "/art/v20/map-carson-v20.webp",
+    "dimensions": [
+      5760,
+      3240
+    ],
+    "outputBytes": 10134548,
+    "sha256": "edd210889cea5380b41d70639a05e73d873dbce1a7282de12bf1eaae69182c03"
+  },
+  "ui-map-symbol-frame-v20": {
+    "url": "/art/v20/ui-map-symbol-frame-v20.webp",
+    "dimensions": [
+      256,
+      256
+    ],
+    "outputBytes": 46264,
+    "sha256": "4277dc894f9b8c7c265b265cd924c1717c921c4d047dd6c8be14af8ce707ce83"
+  }
+}

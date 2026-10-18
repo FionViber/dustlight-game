@@ -1,0 +1,879 @@
+{
+  "version": 2,
+  "identities": {
+    "tom": {
+      "known": true
+    },
+    "amos": {
+      "known": true
+    },
+    "elsie": {
+      "known": true
+    },
+    "hannah": {
+      "known": true
+    },
+    "beatriz": {
+      "known": true
+    },
+    "simon": {
+      "known": true
+    },
+    "isaac": {
+      "known": true
+    },
+    "ada": {
+      "known": true
+    },
+    "leona": {
+      "known": true
+    },
+    "ruth": {
+      "known": true
+    }
+  },
+  "interaction": null,
+  "progression": {
+    "review": true,
+    "unlocked": [
+      "profile",
+      "character",
+      "inventory",
+      "quests",
+      "records",
+      "calendar",
+      "achievements",
+      "wardrobe",
+      "recipes",
+      "notebook",
+      "deduction",
+      "held",
+      "labor",
+      "handbook",
+      "map",
+      "cinema",
+      "gramophone"
+    ],
+    "places": [
+      "station",
+      "post",
+      "store",
+      "town",
+      "court",
+      "ridge",
+      "library",
+      "mine"
+    ],
+    "completed": [
+      "arrival"
+    ],
+    "active": null
+  },
+  "day": 124,
+  "minutes": 600,
+  "place": "station",
+  "hp": 100,
+  "satiety": 35,
+  "health": {
+    "missedNights": 0,
+    "conditions": [],
+    "coldHoursRemaining": 0,
+    "coldReliefHours": 0,
+    "lastContactDay": 0
+  },
+  "money": 99900,
+  "heldItem": null,
+  "deductions": [],
+  "labor": {
+    "knownEvents": [
+      "store-supplies",
+      "mine-prospect"
+    ],
+    "entries": []
+  },
+  "inventory": {
+    "first-sheet-note": 1,
+    "marker-comparison": 1,
+    "bearing-note": 1,
+    "clippings": 1,
+    "survey-exercise": 1,
+    "beans": 20,
+    "biscuit": 20,
+    "cornbread": 20,
+    "coffee": 20,
+    "jerky": 20,
+    "apple": 20,
+    "stew": 20,
+    "flour": 20,
+    "cornmeal": 20,
+    "milk": 20,
+    "butter": 20,
+    "egg": 20,
+    "potato": 20,
+    "onion": 20,
+    "dry-beans": 20,
+    "raw-beef": 20,
+    "raw-pork": 20,
+    "raw-fish": 20,
+    "fried-fish": 20,
+    "scrambled-eggs": 20,
+    "apple-compote": 20,
+    "pan-potatoes": 20,
+    "boiled-potatoes": 20,
+    "boiled-egg": 20,
+    "cornmeal-mush": 20,
+    "canteen": 1,
+    "lantern": 1,
+    "pickaxe": 1,
+    "rope": 1,
+    "compass": 1,
+    "notebook": 1,
+    "boots": 1,
+    "revolver": 1,
+    "brass-marker": 1,
+    "telegram": 1,
+    "blue-map": 1,
+    "signal-telegram": 1,
+    "newspaper": 1,
+    "willow-bark": 1,
+    "throat-lozenges": 1
+  },
+  "equipment": {
+    "footwear": "boots",
+    "weapon": null,
+    "tool": null
+  },
+  "equipped": "boots",
+  "flags": [
+    "station-inspected",
+    "court-inspected",
+    "ruth-met",
+    "boundary-surveyed",
+    "chapter-complete",
+    "celebration-prepared",
+    "new-century",
+    "bandit-seen",
+    "bandit-defeated",
+    "six-dice-met",
+    "six-dice-played",
+    "six-dice-won",
+    "worked",
+    "prospected",
+    "cooked",
+    "tom-met",
+    "tom-hired"
+  ],
+  "recordedEvents": [
+    "ruth-introduction",
+    "readable:waiting-room-return",
+    "readable:waiting-room-found",
+    "readable:stockroom-receipt",
+    "readable:stockroom-inventory",
+    "readable:reading-room-list",
+    "readable:reading-room-letter",
+    "readable:church-mending",
+    "readable:church-bell",
+    "readable:station-baggage-docket",
+    "readable:station-pump",
+    "readable:mine-tool-rack",
+    "readable:ridge-cairn",
+    "readable:ridge-gearbox",
+    "readable:station-notice",
+    "readable:station-parcel",
+    "readable:town-board",
+    "readable:post-instructions",
+    "readable:post-bench-letter",
+    "readable:store-receipt",
+    "readable:store-box",
+    "readable:camp-recipe",
+    "readable:mine-warning",
+    "readable:ridge-survey-note",
+    "readable:court-copy-note",
+    "readable:library-rules",
+    "readable:library-reference",
+    "npc:tom",
+    "npc-topic:tom:misunderstanding",
+    "npc-topic:tom:work",
+    "npc-topic:tom:father",
+    "npc:amos",
+    "npc-topic:amos:platform",
+    "npc-topic:amos:home",
+    "npc-topic:amos:handcar",
+    "npc-topic:amos:introduction",
+    "npc:elsie",
+    "npc-topic:elsie:route",
+    "npc-topic:elsie:hannah",
+    "npc-topic:elsie:leaving",
+    "npc-topic:elsie:introduction",
+    "npc:hannah",
+    "npc-topic:hannah:room",
+    "npc-topic:hannah:elsie",
+    "npc-topic:hannah:century",
+    "npc-topic:hannah:introduction",
+    "npc:beatriz",
+    "npc-topic:beatriz:counter",
+    "npc-topic:beatriz:nico",
+    "npc-topic:beatriz:ribbon",
+    "npc-topic:beatriz:introduction",
+    "npc:simon",
+    "npc-topic:simon:repairs",
+    "npc-topic:simon:brother",
+    "npc-topic:simon:leona",
+    "npc-topic:simon:introduction",
+    "npc:isaac",
+    "npc-topic:isaac:fence",
+    "npc-topic:isaac:saucers",
+    "npc-topic:isaac:sample",
+    "npc-topic:isaac:introduction",
+    "npc:ada",
+    "npc-topic:ada:supper",
+    "npc-topic:ada:june",
+    "npc-topic:ada:coffee",
+    "npc-topic:ada:introduction",
+    "npc:leona",
+    "npc-topic:leona:papers",
+    "npc-topic:leona:signature",
+    "npc-topic:leona:simon",
+    "npc-topic:leona:introduction",
+    "ruth-line:arrival",
+    "ruth-line:station",
+    "ruth-line:ridge-route",
+    "ruth-line:readings",
+    "ruth-line:gathering",
+    "ruth-line:keep-map",
+    "ruth-line:archived",
+    "ruth-line:new-century",
+    "news-notice:railway",
+    "news-notice:reading",
+    "news-notice:supper",
+    "news-article:grant-1885",
+    "news-article:liberty-1885",
+    "book:huckleberry-finn",
+    "book:walden",
+    "book:douglass"
+  ],
+  "collectionHistory": [
+    {
+      "id": "item:notebook",
+      "day": 1,
+      "minutes": 480
+    },
+    {
+      "id": "item:telegram",
+      "day": 2,
+      "minutes": 987
+    },
+    {
+      "id": "ruth-introduction",
+      "day": 4,
+      "minutes": 55
+    },
+    {
+      "id": "readable:waiting-room-return",
+      "day": 5,
+      "minutes": 563
+    },
+    {
+      "id": "readable:waiting-room-found",
+      "day": 6,
+      "minutes": 1070
+    },
+    {
+      "id": "readable:stockroom-receipt",
+      "day": 8,
+      "minutes": 138
+    },
+    {
+      "id": "readable:stockroom-inventory",
+      "day": 9,
+      "minutes": 646
+    },
+    {
+      "id": "readable:reading-room-list",
+      "day": 10,
+      "minutes": 1153
+    },
+    {
+      "id": "readable:reading-room-letter",
+      "day": 12,
+      "minutes": 221
+    },
+    {
+      "id": "readable:church-mending",
+      "day": 13,
+      "minutes": 729
+    },
+    {
+      "id": "readable:church-bell",
+      "day": 14,
+      "minutes": 1236
+    },
+    {
+      "id": "readable:station-baggage-docket",
+      "day": 16,
+      "minutes": 304
+    },
+    {
+      "id": "readable:station-pump",
+      "day": 17,
+      "minutes": 812
+    },
+    {
+      "id": "readable:mine-tool-rack",
+      "day": 18,
+      "minutes": 1320
+    },
+    {
+      "id": "readable:ridge-cairn",
+      "day": 20,
+      "minutes": 387
+    },
+    {
+      "id": "readable:ridge-gearbox",
+      "day": 21,
+      "minutes": 895
+    },
+    {
+      "id": "readable:station-notice",
+      "day": 22,
+      "minutes": 1403
+    },
+    {
+      "id": "readable:station-parcel",
+      "day": 24,
+      "minutes": 470
+    },
+    {
+      "id": "readable:town-board",
+      "day": 25,
+      "minutes": 978
+    },
+    {
+      "id": "readable:post-instructions",
+      "day": 27,
+      "minutes": 46
+    },
+    {
+      "id": "readable:post-bench-letter",
+      "day": 28,
+      "minutes": 553
+    },
+    {
+      "id": "readable:store-receipt",
+      "day": 29,
+      "minutes": 1061
+    },
+    {
+      "id": "readable:store-box",
+      "day": 31,
+      "minutes": 129
+    },
+    {
+      "id": "readable:camp-recipe",
+      "day": 32,
+      "minutes": 636
+    },
+    {
+      "id": "readable:mine-warning",
+      "day": 33,
+      "minutes": 1144
+    },
+    {
+      "id": "readable:ridge-survey-note",
+      "day": 35,
+      "minutes": 212
+    },
+    {
+      "id": "readable:court-copy-note",
+      "day": 36,
+      "minutes": 720
+    },
+    {
+      "id": "readable:library-rules",
+      "day": 37,
+      "minutes": 1227
+    },
+    {
+      "id": "readable:library-reference",
+      "day": 39,
+      "minutes": 295
+    },
+    {
+      "id": "npc:tom",
+      "day": 40,
+      "minutes": 803
+    },
+    {
+      "id": "npc-topic:tom:misunderstanding",
+      "day": 41,
+      "minutes": 1310
+    },
+    {
+      "id": "npc-topic:tom:work",
+      "day": 43,
+      "minutes": 378
+    },
+    {
+      "id": "npc-topic:tom:father",
+      "day": 44,
+      "minutes": 886
+    },
+    {
+      "id": "npc:amos",
+      "day": 45,
+      "minutes": 1393
+    },
+    {
+      "id": "npc-topic:amos:platform",
+      "day": 47,
+      "minutes": 461
+    },
+    {
+      "id": "npc-topic:amos:home",
+      "day": 48,
+      "minutes": 969
+    },
+    {
+      "id": "npc-topic:amos:handcar",
+      "day": 50,
+      "minutes": 36
+    },
+    {
+      "id": "npc-topic:amos:introduction",
+      "day": 51,
+      "minutes": 544
+    },
+    {
+      "id": "npc:elsie",
+      "day": 52,
+      "minutes": 1052
+    },
+    {
+      "id": "npc-topic:elsie:route",
+      "day": 54,
+      "minutes": 120
+    },
+    {
+      "id": "npc-topic:elsie:hannah",
+      "day": 55,
+      "minutes": 627
+    },
+    {
+      "id": "npc-topic:elsie:leaving",
+      "day": 56,
+      "minutes": 1135
+    },
+    {
+      "id": "npc-topic:elsie:introduction",
+      "day": 58,
+      "minutes": 203
+    },
+    {
+      "id": "npc:hannah",
+      "day": 59,
+      "minutes": 710
+    },
+    {
+      "id": "npc-topic:hannah:room",
+      "day": 60,
+      "minutes": 1218
+    },
+    {
+      "id": "npc-topic:hannah:elsie",
+      "day": 62,
+      "minutes": 286
+    },
+    {
+      "id": "npc-topic:hannah:century",
+      "day": 63,
+      "minutes": 793
+    },
+    {
+      "id": "npc-topic:hannah:introduction",
+      "day": 64,
+      "minutes": 1301
+    },
+    {
+      "id": "npc:beatriz",
+      "day": 66,
+      "minutes": 369
+    },
+    {
+      "id": "npc-topic:beatriz:counter",
+      "day": 67,
+      "minutes": 876
+    },
+    {
+      "id": "npc-topic:beatriz:nico",
+      "day": 68,
+      "minutes": 1384
+    },
+    {
+      "id": "npc-topic:beatriz:ribbon",
+      "day": 70,
+      "minutes": 452
+    },
+    {
+      "id": "npc-topic:beatriz:introduction",
+      "day": 71,
+      "minutes": 960
+    },
+    {
+      "id": "npc:simon",
+      "day": 73,
+      "minutes": 27
+    },
+    {
+      "id": "npc-topic:simon:repairs",
+      "day": 74,
+      "minutes": 535
+    },
+    {
+      "id": "npc-topic:simon:brother",
+      "day": 75,
+      "minutes": 1043
+    },
+    {
+      "id": "npc-topic:simon:leona",
+      "day": 77,
+      "minutes": 110
+    },
+    {
+      "id": "npc-topic:simon:introduction",
+      "day": 78,
+      "minutes": 618
+    },
+    {
+      "id": "npc:isaac",
+      "day": 79,
+      "minutes": 1126
+    },
+    {
+      "id": "npc-topic:isaac:fence",
+      "day": 81,
+      "minutes": 193
+    },
+    {
+      "id": "npc-topic:isaac:saucers",
+      "day": 82,
+      "minutes": 701
+    },
+    {
+      "id": "npc-topic:isaac:sample",
+      "day": 83,
+      "minutes": 1209
+    },
+    {
+      "id": "npc-topic:isaac:introduction",
+      "day": 85,
+      "minutes": 276
+    },
+    {
+      "id": "npc:ada",
+      "day": 86,
+      "minutes": 784
+    },
+    {
+      "id": "npc-topic:ada:supper",
+      "day": 87,
+      "minutes": 1292
+    },
+    {
+      "id": "npc-topic:ada:june",
+      "day": 89,
+      "minutes": 360
+    },
+    {
+      "id": "npc-topic:ada:coffee",
+      "day": 90,
+      "minutes": 867
+    },
+    {
+      "id": "npc-topic:ada:introduction",
+      "day": 91,
+      "minutes": 1375
+    },
+    {
+      "id": "npc:leona",
+      "day": 93,
+      "minutes": 443
+    },
+    {
+      "id": "npc-topic:leona:papers",
+      "day": 94,
+      "minutes": 950
+    },
+    {
+      "id": "npc-topic:leona:signature",
+      "day": 96,
+      "minutes": 18
+    },
+    {
+      "id": "npc-topic:leona:simon",
+      "day": 97,
+      "minutes": 526
+    },
+    {
+      "id": "npc-topic:leona:introduction",
+      "day": 98,
+      "minutes": 1033
+    },
+    {
+      "id": "ruth-line:arrival",
+      "day": 100,
+      "minutes": 101
+    },
+    {
+      "id": "ruth-line:station",
+      "day": 101,
+      "minutes": 609
+    },
+    {
+      "id": "ruth-line:ridge-route",
+      "day": 102,
+      "minutes": 1116
+    },
+    {
+      "id": "ruth-line:readings",
+      "day": 104,
+      "minutes": 184
+    },
+    {
+      "id": "ruth-line:gathering",
+      "day": 105,
+      "minutes": 692
+    },
+    {
+      "id": "ruth-line:keep-map",
+      "day": 106,
+      "minutes": 1200
+    },
+    {
+      "id": "ruth-line:archived",
+      "day": 108,
+      "minutes": 267
+    },
+    {
+      "id": "ruth-line:new-century",
+      "day": 109,
+      "minutes": 775
+    },
+    {
+      "id": "news-notice:railway",
+      "day": 110,
+      "minutes": 1283
+    },
+    {
+      "id": "news-notice:reading",
+      "day": 112,
+      "minutes": 350
+    },
+    {
+      "id": "news-notice:supper",
+      "day": 113,
+      "minutes": 858
+    },
+    {
+      "id": "news-article:grant-1885",
+      "day": 114,
+      "minutes": 1366
+    },
+    {
+      "id": "news-article:liberty-1885",
+      "day": 116,
+      "minutes": 433
+    },
+    {
+      "id": "book:huckleberry-finn",
+      "day": 117,
+      "minutes": 941
+    },
+    {
+      "id": "book:walden",
+      "day": 119,
+      "minutes": 9
+    },
+    {
+      "id": "book:douglass",
+      "day": 120,
+      "minutes": 516
+    },
+    {
+      "id": "item:blue-map",
+      "day": 121,
+      "minutes": 1024
+    },
+    {
+      "id": "item:signal-telegram",
+      "day": 123,
+      "minutes": 92
+    },
+    {
+      "id": "item:survey-exercise",
+      "day": 124,
+      "minutes": 600
+    }
+  ],
+  "knownRecipes": [
+    "biscuits",
+    "cornbread",
+    "camp-stew",
+    "stewed-beans",
+    "fried-fish",
+    "scrambled-eggs",
+    "apple-compote",
+    "pan-potatoes",
+    "plain-beans",
+    "butter-eggs",
+    "trail-stew",
+    "butter-potatoes",
+    "simple-fried-fish",
+    "boiled-potatoes",
+    "boiled-egg",
+    "cornmeal-mush"
+  ],
+  "cookedRecipes": [
+    "biscuits",
+    "cornbread",
+    "camp-stew",
+    "stewed-beans",
+    "fried-fish",
+    "scrambled-eggs",
+    "apple-compote",
+    "pan-potatoes",
+    "plain-beans",
+    "butter-eggs",
+    "trail-stew",
+    "butter-potatoes",
+    "simple-fried-fish",
+    "boiled-potatoes",
+    "boiled-egg",
+    "cornmeal-mush"
+  ],
+  "achievements": [
+    {
+      "id": "arrival",
+      "day": 124,
+      "minutes": 480
+    },
+    {
+      "id": "first-conversation",
+      "day": 124,
+      "minutes": 480
+    },
+    {
+      "id": "first-investigation",
+      "day": 124,
+      "minutes": 480
+    },
+    {
+      "id": "first-journey",
+      "day": 124,
+      "minutes": 480
+    },
+    {
+      "id": "first-purchase",
+      "day": 124,
+      "minutes": 480
+    },
+    {
+      "id": "first-sale",
+      "day": 124,
+      "minutes": 480
+    },
+    {
+      "id": "first-wages",
+      "day": 124,
+      "minutes": 480
+    },
+    {
+      "id": "first-ore",
+      "day": 124,
+      "minutes": 480
+    },
+    {
+      "id": "first-cooking",
+      "day": 124,
+      "minutes": 480
+    },
+    {
+      "id": "first-provisions",
+      "day": 124,
+      "minutes": 480
+    },
+    {
+      "id": "first-equipment",
+      "day": 124,
+      "minutes": 480
+    },
+    {
+      "id": "first-rest",
+      "day": 124,
+      "minutes": 480
+    },
+    {
+      "id": "first-reading",
+      "day": 124,
+      "minutes": 480
+    },
+    {
+      "id": "first-holiday",
+      "day": 124,
+      "minutes": 480
+    },
+    {
+      "id": "first-survey",
+      "day": 124,
+      "minutes": 480
+    },
+    {
+      "id": "first-chapter",
+      "day": 124,
+      "minutes": 480
+    },
+    {
+      "id": "new-year-message",
+      "day": 124,
+      "minutes": 480
+    },
+    {
+      "id": "first-victory",
+      "day": 124,
+      "minutes": 480
+    },
+    {
+      "id": "first-six-dice",
+      "day": 124,
+      "minutes": 480
+    },
+    {
+      "id": "six-dice-victory",
+      "day": 124,
+      "minutes": 480
+    }
+  ],
+  "appearance": {
+    "clara": "everyday"
+  },
+  "battle": null,
+  "campaign": {
+    "startDate": "1885-09-01",
+    "durationYears": 10,
+    "deadlineDate": "1895-09-01"
+  },
+  "ending": null,
+  "log": [
+    {
+      "en": "Arrived in Carson City to search for Father, Silas Ward.",
+      "zh": "抵达卡森城，寻找失踪的父亲，赛拉斯·沃德。",
+      "day": 1,
+      "minutes": 480
+    },
+    {
+      "en": "Put away the old survey fragment and the New Year’s telegram. Cleaned the pots at the store and laid out the provisions.",
+      "zh": "收好了旧测绘图残页与新年电报。回到铺子，洗净锅子，把补给一一摆开。",
+      "day": 124,
+      "minutes": 480
+    }
+  ]
+}

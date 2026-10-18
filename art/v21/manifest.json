@@ -1,0 +1,137 @@
+{
+  "fx-leaf-autumn-v21": {
+    "url": "/art/v21/fx-leaf-autumn-v21.webp",
+    "dimensions": [
+      128,
+      128
+    ],
+    "outputBytes": 18156,
+    "sha256": "25e3149b39bab686bef691c4c8b56d2fbe16a59dc1a9cf26bcbb74ee24e1940b"
+  },
+  "fx-leaf-cottonwood-v21": {
+    "url": "/art/v21/fx-leaf-cottonwood-v21.webp",
+    "dimensions": [
+      128,
+      128
+    ],
+    "outputBytes": 12722,
+    "sha256": "a48e4f54fa0ea300e1ffb338d2d09f9720c762c0c28fe41a1c84fd5115a6c4d4"
+  },
+  "fx-leaf-willow-v21": {
+    "url": "/art/v21/fx-leaf-willow-v21.webp",
+    "dimensions": [
+      128,
+      128
+    ],
+    "outputBytes": 8424,
+    "sha256": "44dc2ea234abb28b1a2de54bfdec0424d9d52a76976d3428a3c6b0506544ef6c"
+  },
+  "map-highlight-county-mine-v21": {
+    "url": "/art/v21/map-highlight-county-mine-v21.webp",
+    "dimensions": [
+      354,
+      200
+    ],
+    "outputBytes": 71936,
+    "sha256": "20633c33feff46ef37c9908d4a4f4c0dbb75a2a32e92236072b0dc4349f74b62"
+  },
+  "map-highlight-county-town-v21": {
+    "url": "/art/v21/map-highlight-county-town-v21.webp",
+    "dimensions": [
+      470,
+      354
+    ],
+    "outputBytes": 179748,
+    "sha256": "ac7c45fab41a9aa45a44ee6d6af7201929f52c2e6ac0d93d128a6a17e3ec9c70"
+  },
+  "map-highlight-town-court-v21": {
+    "url": "/art/v21/map-highlight-town-court-v21.webp",
+    "dimensions": [
+      219,
+      225
+    ],
+    "outputBytes": 67722,
+    "sha256": "4bfd9a7e9d0adf606468c154c70f0b05d4085e7ffdfa2b36e6bc5a69b5f880e7"
+  },
+  "map-highlight-town-library-v21": {
+    "url": "/art/v21/map-highlight-town-library-v21.webp",
+    "dimensions": [
+      231,
+      225
+    ],
+    "outputBytes": 74880,
+    "sha256": "cc5ef8493fb977978cc868aa6d423cc4f4d869eb9b3c61aa8aa8e61ee3c62b83"
+  },
+  "map-highlight-town-post-v21": {
+    "url": "/art/v21/map-highlight-town-post-v21.webp",
+    "dimensions": [
+      234,
+      222
+    ],
+    "outputBytes": 67002,
+    "sha256": "3248e1e020250c8a924007bf97b1583fbd5163eb2a825112b99606c1dcf3e2eb"
+  },
+  "map-highlight-town-ridge-v21": {
+    "url": "/art/v21/map-highlight-town-ridge-v21.webp",
+    "dimensions": [
+      453,
+      447
+    ],
+    "outputBytes": 266504,
+    "sha256": "6c77a6fa459c3324397b6e749855afa99431e32ac778e3eb3a0fc8087580184b"
+  },
+  "map-highlight-town-station-v21": {
+    "url": "/art/v21/map-highlight-town-station-v21.webp",
+    "dimensions": [
+      234,
+      216
+    ],
+    "outputBytes": 70700,
+    "sha256": "9567b17589fa56ae1e7241c03b77e6d4fba2ec8d958d1d83a65235dc9766a7f8"
+  },
+  "map-highlight-town-store-v21": {
+    "url": "/art/v21/map-highlight-town-store-v21.webp",
+    "dimensions": [
+      219,
+      216
+    ],
+    "outputBytes": 69214,
+    "sha256": "28faaad4a639e503a70cc61ec9ba783f037cd33e5b9a1d8af849f7a1190fe721"
+  },
+  "map-highlight-town-town-v21": {
+    "url": "/art/v21/map-highlight-town-town-v21.webp",
+    "dimensions": [
+      222,
+      225
+    ],
+    "outputBytes": 65414,
+    "sha256": "e244b462b06c0a911beae729c610dbe9394fd79b42b91d0f07cd9bb3ed2793ec"
+  },
+  "map-regional-v21": {
+    "url": "/art/v21/map-regional-v21.webp",
+    "dimensions": [
+      3840,
+      2160
+    ],
+    "outputBytes": 4910830,
+    "sha256": "182fd37aaacc659dd9d47c99916f29b3849ea0dcc9bfd091394fb6e003d4304a"
+  },
+  "scene-screening-room-v21": {
+    "url": "/art/v21/scene-screening-room-v21.webp",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "outputBytes": 263016,
+    "sha256": "d4060ea2cc5843e4496363ad754f9e0b5c25c896d51bf9e9572092a61bf94477"
+  },
+  "ui-guide-arrow-v21": {
+    "url": "/art/v21/ui-guide-arrow-v21.webp",
+    "dimensions": [
+      512,
+      512
+    ],
+    "outputBytes": 18022,
+    "sha256": "39c0e54826784d5e4a6fd5f415ed173d589ac796d16f38315c73ec57e3d44336"
+  }
+}

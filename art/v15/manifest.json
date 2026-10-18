@@ -1,0 +1,605 @@
+{
+  "portrait-clara-evening-spring-dialogue-v15": {
+    "url": "/art/v15/portrait-clara-evening-spring-dialogue-v15.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "outputBytes": 180274,
+    "sha256": "88107e1267da148185b8061f6beb781dac4517ff97a90f42b0afc618e245dd99"
+  },
+  "portrait-clara-evening-spring-scene-v15": {
+    "url": "/art/v15/portrait-clara-evening-spring-scene-v15.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "outputBytes": 216690,
+    "sha256": "46244d2af46df384ffce66c5173a7288ed59ca8b0a6e922235cb1c4f7bf59789"
+  },
+  "portrait-clara-everyday-spring-dialogue-v15": {
+    "url": "/art/v15/portrait-clara-everyday-spring-dialogue-v15.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "outputBytes": 217018,
+    "sha256": "13f03fe458086ef37241fbe1a683768c99119c210376907bfa1f5873362f2f50"
+  },
+  "portrait-clara-everyday-spring-scene-v15": {
+    "url": "/art/v15/portrait-clara-everyday-spring-scene-v15.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "outputBytes": 232372,
+    "sha256": "803bf3e1714099c8e2da978baed51333932da006eab6212a4148ec49e69ec489"
+  },
+  "portrait-tom-evening-spring-dialogue-v15": {
+    "url": "/art/v15/portrait-tom-evening-spring-dialogue-v15.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "outputBytes": 245422,
+    "sha256": "45c49196b8e2047aff53fd776a1ea967765cbec1efeca2277a716a62a7c71cf7"
+  },
+  "portrait-tom-evening-spring-scene-v15": {
+    "url": "/art/v15/portrait-tom-evening-spring-scene-v15.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "outputBytes": 244430,
+    "sha256": "169ddfb36579efefb182f4566a6c0eadd08ba8cc9496c93c6b1fcb0ee2922c9b"
+  },
+  "portrait-tom-everyday-spring-dialogue-v15": {
+    "url": "/art/v15/portrait-tom-everyday-spring-dialogue-v15.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "outputBytes": 252376,
+    "sha256": "dc7913e7f11600b3d0e3d1b96d144bff7a85b000eadea0a4efb6bba927adc977"
+  },
+  "portrait-tom-everyday-spring-scene-v15": {
+    "url": "/art/v15/portrait-tom-everyday-spring-scene-v15.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "outputBytes": 280584,
+    "sha256": "4061c8f420aaad91db5015fd78c7984d4047a3cddcab60572be96f553105419f"
+  },
+  "scene-court-copy-ledger-day-autumn-v15": {
+    "url": "/art/v15/scene-court-copy-ledger-day-autumn-v15.webp",
+    "dimensions": [
+      122,
+      46
+    ],
+    "outputBytes": 2456,
+    "sha256": "5951eb9c0dc0f11ef1f7f3404d8095c48d3cac3a9ea2faf17ca170a637d667cb"
+  },
+  "scene-court-county-entry-day-autumn-v15": {
+    "url": "/art/v15/scene-court-county-entry-day-autumn-v15.webp",
+    "dimensions": [
+      243,
+      471
+    ],
+    "outputBytes": 33222,
+    "sha256": "3a77c73bd8a23c6730b22788b5f9d6adc9286762290513291bee676bc2463d70"
+  },
+  "scene-court-day-autumn-v15": {
+    "url": "/art/v15/scene-court-day-autumn-v15.webp",
+    "dimensions": [
+      5760,
+      2160
+    ],
+    "outputBytes": 4764676,
+    "sha256": "a0ce34bb6c210cb102612505e66d44104beedd23f7b35208b9ad026110ef9ef7"
+  },
+  "scene-court-foreground-hitching-rail-day-autumn-v15": {
+    "url": "/art/v15/scene-court-foreground-hitching-rail-day-autumn-v15.webp",
+    "dimensions": [
+      634,
+      422
+    ],
+    "outputBytes": 61720,
+    "sha256": "96975914210d288560bde9d3aea8498ca9e0ad38023c3b8b88deba5eb670474b"
+  },
+  "scene-court-foreground-tree-root-day-autumn-v15": {
+    "url": "/art/v15/scene-court-foreground-tree-root-day-autumn-v15.webp",
+    "dimensions": [
+      409,
+      875
+    ],
+    "outputBytes": 77908,
+    "sha256": "9cefcbd25c07a30150c3dc6d465637e4988be023c5dea8c860b7747a5be24e67"
+  },
+  "scene-mine-day-autumn-v15": {
+    "url": "/art/v15/scene-mine-day-autumn-v15.webp",
+    "dimensions": [
+      5760,
+      2160
+    ],
+    "outputBytes": 4924318,
+    "sha256": "5626356841abc195f1e507064cfe4afcb411a42cf886eb8ac41f4a06e24b5946"
+  },
+  "scene-mine-foreground-left-day-autumn-v15": {
+    "url": "/art/v15/scene-mine-foreground-left-day-autumn-v15.webp",
+    "dimensions": [
+      1673,
+      484
+    ],
+    "outputBytes": 253140,
+    "sha256": "f7c523333dadb0f82d9d7ec7f579320e529f6681011c15d9b6df22cfb05af06e"
+  },
+  "scene-mine-foreground-right-day-autumn-v15": {
+    "url": "/art/v15/scene-mine-foreground-right-day-autumn-v15.webp",
+    "dimensions": [
+      1366,
+      334
+    ],
+    "outputBytes": 183542,
+    "sha256": "97f0a0b1004a26caed47b56790d9039422ba38cedb30aff7ade561874abcc286"
+  },
+  "scene-mine-posted-warning-day-autumn-v15": {
+    "url": "/art/v15/scene-mine-posted-warning-day-autumn-v15.webp",
+    "dimensions": [
+      347,
+      308
+    ],
+    "outputBytes": 39316,
+    "sha256": "6d8c33181bb47240213cc4ef4e77708c0f88b56811a02363eb72e36e5d73183b"
+  },
+  "scene-mine-shaft-entry-day-autumn-v15": {
+    "url": "/art/v15/scene-mine-shaft-entry-day-autumn-v15.webp",
+    "dimensions": [
+      409,
+      487
+    ],
+    "outputBytes": 60798,
+    "sha256": "a6021c38f6512e00e2de3f378b17ccf403678d0da4874a98de1040c371b6052e"
+  },
+  "scene-mine-survey-ore-day-autumn-v15": {
+    "url": "/art/v15/scene-mine-survey-ore-day-autumn-v15.webp",
+    "dimensions": [
+      865,
+      203
+    ],
+    "outputBytes": 75736,
+    "sha256": "759361296c1be51a7f7e527cb74e726f62526eaf4cdca5645a21270f57f19fd0"
+  },
+  "scene-mine-tool-rack-day-autumn-v15": {
+    "url": "/art/v15/scene-mine-tool-rack-day-autumn-v15.webp",
+    "dimensions": [
+      353,
+      501
+    ],
+    "outputBytes": 50148,
+    "sha256": "b56ec27dfd971fa6763f5025a5d64a727e6ef77fd6f38530ba00ca1d30589905"
+  },
+  "scene-post-day-autumn-benchFront-v15": {
+    "url": "/art/v15/scene-post-day-autumn-benchFront-v15.webp",
+    "dimensions": [
+      595,
+      280
+    ],
+    "outputBytes": 89960,
+    "sha256": "ed3d801e29f870b94f593fe2a2c7798ebe488b45b93a9260c0494afef315c034"
+  },
+  "scene-post-day-autumn-benchLetter-v15": {
+    "url": "/art/v15/scene-post-day-autumn-benchLetter-v15.webp",
+    "dimensions": [
+      100,
+      44
+    ],
+    "outputBytes": 5602,
+    "sha256": "64f3baa6328afad79c5e1be403de0c407a8405fd309551dc8f8543f68b16e320"
+  },
+  "scene-post-day-autumn-hitchRail-v15": {
+    "url": "/art/v15/scene-post-day-autumn-hitchRail-v15.webp",
+    "dimensions": [
+      1217,
+      520
+    ],
+    "outputBytes": 231960,
+    "sha256": "045c5faa63b8cd06f0376f2dfc759ec17049e2861f0d4524bf26bf2a62f7ad9b"
+  },
+  "scene-post-day-autumn-mailbag-v15": {
+    "url": "/art/v15/scene-post-day-autumn-mailbag-v15.webp",
+    "dimensions": [
+      205,
+      303
+    ],
+    "outputBytes": 74482,
+    "sha256": "2322354095b18e9ee56e197785bae8db8872574232befe49216e8bf4f3d6e876"
+  },
+  "scene-post-day-autumn-notice-v15": {
+    "url": "/art/v15/scene-post-day-autumn-notice-v15.webp",
+    "dimensions": [
+      188,
+      294
+    ],
+    "outputBytes": 53250,
+    "sha256": "4665cba239deb5c91fd3f318842d6e8c81ebb6be9a51d4b1829d6d5ff12b4232"
+  },
+  "scene-post-day-autumn-trough-v15": {
+    "url": "/art/v15/scene-post-day-autumn-trough-v15.webp",
+    "dimensions": [
+      654,
+      288
+    ],
+    "outputBytes": 226916,
+    "sha256": "fc1d375c738f0022f75c7cc3339e7bb99bf8a5c21a30c009f514ba68a403c032"
+  },
+  "scene-post-day-autumn-v15": {
+    "url": "/art/v15/scene-post-day-autumn-v15.webp",
+    "dimensions": [
+      5760,
+      2160
+    ],
+    "outputBytes": 4400764,
+    "sha256": "4f4a975a21ccd1b33b5bd8ddf24763080db116fe3421507ab66fd40af795f280"
+  },
+  "scene-ridge-day-autumn-v15": {
+    "url": "/art/v15/scene-ridge-day-autumn-v15.webp",
+    "dimensions": [
+      5760,
+      2160
+    ],
+    "outputBytes": 4412532,
+    "sha256": "2f36e5de429fd646c748ed2285ffd060eada9461387015f911f1ec4c0b8ff8ee"
+  },
+  "scene-ridge-document-case-day-autumn-v15": {
+    "url": "/art/v15/scene-ridge-document-case-day-autumn-v15.webp",
+    "dimensions": [
+      207,
+      97
+    ],
+    "outputBytes": 9108,
+    "sha256": "aff594c98c22a311d74a0d5daeae867fc9357d739d2d0143f7fe768f66fa0849"
+  },
+  "scene-ridge-foreground-left-day-autumn-v15": {
+    "url": "/art/v15/scene-ridge-foreground-left-day-autumn-v15.webp",
+    "dimensions": [
+      1039,
+      448
+    ],
+    "outputBytes": 160582,
+    "sha256": "8c07871bca5fe4788186964dd8c5cea44b1e18931829426549f13ce3f4dd249d"
+  },
+  "scene-ridge-foreground-right-day-autumn-v15": {
+    "url": "/art/v15/scene-ridge-foreground-right-day-autumn-v15.webp",
+    "dimensions": [
+      920,
+      450
+    ],
+    "outputBytes": 160594,
+    "sha256": "a78122d3ef64f3e5413780873987a5c028c28cbb5c534a36f2724b764aa7f2c6"
+  },
+  "scene-ridge-front-stone-day-autumn-v15": {
+    "url": "/art/v15/scene-ridge-front-stone-day-autumn-v15.webp",
+    "dimensions": [
+      80,
+      108
+    ],
+    "outputBytes": 4606,
+    "sha256": "16fe083cb022db399cc153ea8e3a3f1fe4a3e18f6e203d791dee2621ef24c300"
+  },
+  "scene-school-day-autumn-benchBook-v15": {
+    "url": "/art/v15/scene-school-day-autumn-benchBook-v15.webp",
+    "dimensions": [
+      185,
+      55
+    ],
+    "outputBytes": 11344,
+    "sha256": "84d0a8f32a098fd91c9886fc36e10a88c3e1e8d943a7baeeac7d4cc69ea3d35a"
+  },
+  "scene-school-day-autumn-benchFront-v15": {
+    "url": "/art/v15/scene-school-day-autumn-benchFront-v15.webp",
+    "dimensions": [
+      781,
+      179
+    ],
+    "outputBytes": 67926,
+    "sha256": "b0383d9dea2cd29141dde0b130ca3e5816a0ca563954d4aeeaea822a28110dd6"
+  },
+  "scene-school-day-autumn-door-v15": {
+    "url": "/art/v15/scene-school-day-autumn-door-v15.webp",
+    "dimensions": [
+      157,
+      337
+    ],
+    "outputBytes": 47806,
+    "sha256": "472fb32d500e27f3cce996e1ad871ae4bd72539be88797b73053bc2a440f4679"
+  },
+  "scene-school-day-autumn-gatePost-v15": {
+    "url": "/art/v15/scene-school-day-autumn-gatePost-v15.webp",
+    "dimensions": [
+      953,
+      584
+    ],
+    "outputBytes": 127120,
+    "sha256": "2693ec214944a4b0a576add497e796717fe56196cf6e0bb62d4cdaa19b081583"
+  },
+  "scene-school-day-autumn-notice-v15": {
+    "url": "/art/v15/scene-school-day-autumn-notice-v15.webp",
+    "dimensions": [
+      121,
+      185
+    ],
+    "outputBytes": 24408,
+    "sha256": "bcb80db611a752d25c2280749649b4be66a3157b428621168251ab4d617e0868"
+  },
+  "scene-school-day-autumn-v15": {
+    "url": "/art/v15/scene-school-day-autumn-v15.webp",
+    "dimensions": [
+      5760,
+      2160
+    ],
+    "outputBytes": 5056192,
+    "sha256": "e3292aab2ec011b15d0e3fbab10a99ce25f7e043f069685cea210ec6c3ead48a"
+  },
+  "scene-station-baggage-cart-day-autumn-v15": {
+    "url": "/art/v15/scene-station-baggage-cart-day-autumn-v15.webp",
+    "dimensions": [
+      383,
+      167
+    ],
+    "outputBytes": 26162,
+    "sha256": "2e1118f73289266a4099785bd15dff36a3ff5c7a1e3588cb99bd49dbd293549a"
+  },
+  "scene-station-day-autumn-v15": {
+    "url": "/art/v15/scene-station-day-autumn-v15.webp",
+    "dimensions": [
+      5760,
+      2160
+    ],
+    "outputBytes": 4191220,
+    "sha256": "7743c7c66f836865df6e4ae54cfeebbf60a66cb465b50898a74fbc6a5814d329"
+  },
+  "scene-station-foreground-platform-edge-day-autumn-v15": {
+    "url": "/art/v15/scene-station-foreground-platform-edge-day-autumn-v15.webp",
+    "dimensions": [
+      5612,
+      423
+    ],
+    "outputBytes": 499540,
+    "sha256": "ff3464a75004cb952b283d38960476000f5d628b966dd55aa5852df5d07957a0"
+  },
+  "scene-station-notice-case-day-autumn-v15": {
+    "url": "/art/v15/scene-station-notice-case-day-autumn-v15.webp",
+    "dimensions": [
+      147,
+      215
+    ],
+    "outputBytes": 10556,
+    "sha256": "b629a99c68e790f3eacc367737321b6e09f7849263d1fbd7a0c21f6b50e8987b"
+  },
+  "scene-station-parcel-day-autumn-v15": {
+    "url": "/art/v15/scene-station-parcel-day-autumn-v15.webp",
+    "dimensions": [
+      124,
+      108
+    ],
+    "outputBytes": 5406,
+    "sha256": "55e0e78c690f2d6a4fee1ecadc5fb2e389d131189fed9d3a8ea6bc9d04989910"
+  },
+  "scene-station-waiting-room-baggage-day-autumn-v15": {
+    "url": "/art/v15/scene-station-waiting-room-baggage-day-autumn-v15.webp",
+    "dimensions": [
+      307,
+      488
+    ],
+    "outputBytes": 43164,
+    "sha256": "c2ca2579468b04e6b3850f0fdbe139238347bc2ef69edc32ed269608b095fbb5"
+  },
+  "scene-station-waiting-room-bench-paper-day-autumn-v15": {
+    "url": "/art/v15/scene-station-waiting-room-bench-paper-day-autumn-v15.webp",
+    "dimensions": [
+      496,
+      156
+    ],
+    "outputBytes": 26428,
+    "sha256": "6fbd30c4a923cc549d4f2890c195d1c71f3e6864bfd8ac338ac629b672270eb6"
+  },
+  "scene-station-waiting-room-day-autumn-v15": {
+    "url": "/art/v15/scene-station-waiting-room-day-autumn-v15.webp",
+    "dimensions": [
+      5760,
+      2160
+    ],
+    "outputBytes": 3549664,
+    "sha256": "6bc0171ccaba85911f2f200fbf26920c21745aa1b62b3372c3a6adb99bdc411e"
+  },
+  "scene-station-waiting-room-door-day-autumn-v15": {
+    "url": "/art/v15/scene-station-waiting-room-door-day-autumn-v15.webp",
+    "dimensions": [
+      91,
+      276
+    ],
+    "outputBytes": 5376,
+    "sha256": "a544b3451fa02d320cb396203c70f0e316c6262cb2096a1b0957cc6a8f570358"
+  },
+  "scene-station-waiting-room-foreground-left-bench-day-autumn-v15": {
+    "url": "/art/v15/scene-station-waiting-room-foreground-left-bench-day-autumn-v15.webp",
+    "dimensions": [
+      1247,
+      863
+    ],
+    "outputBytes": 356852,
+    "sha256": "44149f20f51417687561ee2b3c8c090805c9f5363af7126413df12af796cf01b"
+  },
+  "scene-station-waiting-room-foreground-right-bench-day-autumn-v15": {
+    "url": "/art/v15/scene-station-waiting-room-foreground-right-bench-day-autumn-v15.webp",
+    "dimensions": [
+      892,
+      858
+    ],
+    "outputBytes": 227498,
+    "sha256": "de994bf576547459736fba5c2a51337a02e1150e203503b3a8e8267ff6f25a24"
+  },
+  "scene-station-waiting-room-platform-door-day-autumn-v15": {
+    "url": "/art/v15/scene-station-waiting-room-platform-door-day-autumn-v15.webp",
+    "dimensions": [
+      553,
+      1637
+    ],
+    "outputBytes": 275370,
+    "sha256": "23e96ffb284485d14d0353cf1ba631fd1fb4976ab64d3c185f8709259a9cd44e"
+  },
+  "scene-station-waiting-room-ticket-ledger-day-autumn-v15": {
+    "url": "/art/v15/scene-station-waiting-room-ticket-ledger-day-autumn-v15.webp",
+    "dimensions": [
+      200,
+      43
+    ],
+    "outputBytes": 4244,
+    "sha256": "8cbfd323480e0e754b1ed3570386f59a82189341ac6bdaaad9cd5c139760c811"
+  },
+  "scene-store-back-entry-day-autumn-v15": {
+    "url": "/art/v15/scene-store-back-entry-day-autumn-v15.webp",
+    "dimensions": [
+      82,
+      555
+    ],
+    "outputBytes": 14624,
+    "sha256": "a9027a4627651a0897b859115f46882930b8b7c3b8a3bdad66293535e6811d82"
+  },
+  "scene-store-day-autumn-v15": {
+    "url": "/art/v15/scene-store-day-autumn-v15.webp",
+    "dimensions": [
+      5760,
+      2160
+    ],
+    "outputBytes": 4361280,
+    "sha256": "06a1da780ae64d3c514d1380433143b94a56db5665716fe510973812b3acc1b2"
+  },
+  "scene-store-delivery-crate-day-autumn-v15": {
+    "url": "/art/v15/scene-store-delivery-crate-day-autumn-v15.webp",
+    "dimensions": [
+      333,
+      192
+    ],
+    "outputBytes": 24844,
+    "sha256": "a760c7c64114982e86f1202109bdb619a6c689e38209403d67b791db6efb255f"
+  },
+  "scene-store-delivery-tag-day-autumn-v15": {
+    "url": "/art/v15/scene-store-delivery-tag-day-autumn-v15.webp",
+    "dimensions": [
+      58,
+      91
+    ],
+    "outputBytes": 2182,
+    "sha256": "4dc9fb711e92e2d506f39a0a1caa0b689688a4769e6a1cd349dc6d86dcb03847"
+  },
+  "scene-store-foreground-left-rail-day-autumn-v15": {
+    "url": "/art/v15/scene-store-foreground-left-rail-day-autumn-v15.webp",
+    "dimensions": [
+      2096,
+      353
+    ],
+    "outputBytes": 91646,
+    "sha256": "cc28318f8c79f06e3283ca4d086aed85dd7c96a28a51efb5659487fdf3d7e617"
+  },
+  "scene-store-foreground-platform-day-autumn-v15": {
+    "url": "/art/v15/scene-store-foreground-platform-day-autumn-v15.webp",
+    "dimensions": [
+      5760,
+      170
+    ],
+    "outputBytes": 260652,
+    "sha256": "11415b3d2814983d99c2a7827ebce0d10f1cc735332507b2a8b25f55f0731cab"
+  },
+  "scene-store-foreground-right-rail-day-autumn-v15": {
+    "url": "/art/v15/scene-store-foreground-right-rail-day-autumn-v15.webp",
+    "dimensions": [
+      582,
+      361
+    ],
+    "outputBytes": 38026,
+    "sha256": "2f3ee6923401bb326f6c07b5d9e5a120d9a2aa2ff240e88c26d1799e131ddda5"
+  },
+  "scene-store-older-crate-day-autumn-v15": {
+    "url": "/art/v15/scene-store-older-crate-day-autumn-v15.webp",
+    "dimensions": [
+      235,
+      130
+    ],
+    "outputBytes": 10868,
+    "sha256": "8353baa549384f4bc03a1c5c73a9c2e62bf3b44bfb2b36e08f843ef851a81528"
+  },
+  "scene-store-shop-entry-day-autumn-v15": {
+    "url": "/art/v15/scene-store-shop-entry-day-autumn-v15.webp",
+    "dimensions": [
+      375,
+      760
+    ],
+    "outputBytes": 75828,
+    "sha256": "7f5c95046ba83ada318175d5f6a40766669fff297dd6589798d6d172f5ae4063"
+  },
+  "scene-town-community-paper-day-autumn-v15": {
+    "url": "/art/v15/scene-town-community-paper-day-autumn-v15.webp",
+    "dimensions": [
+      57,
+      77
+    ],
+    "outputBytes": 1082,
+    "sha256": "8eae1c4c4102364f6b782a76099494cd2ab805ab033b308ab505c0b7a53888ca"
+  },
+  "scene-town-day-autumn-v15": {
+    "url": "/art/v15/scene-town-day-autumn-v15.webp",
+    "dimensions": [
+      5760,
+      2160
+    ],
+    "outputBytes": 5067972,
+    "sha256": "06e19307c579557801d18e8e9c591e529e7033fcaaeafe34c161ea7f3ef9e6e5"
+  },
+  "scene-town-entrance-day-autumn-v15": {
+    "url": "/art/v15/scene-town-entrance-day-autumn-v15.webp",
+    "dimensions": [
+      147,
+      479
+    ],
+    "outputBytes": 23000,
+    "sha256": "d70deb8d2a8d773bf2af5e60218aa958da06c1c341422a5531521b3f1202e7a4"
+  },
+  "scene-town-gathering-bench-day-autumn-v15": {
+    "url": "/art/v15/scene-town-gathering-bench-day-autumn-v15.webp",
+    "dimensions": [
+      439,
+      181
+    ],
+    "outputBytes": 26404,
+    "sha256": "60355b0641fa63ec8303cbebbfa5b683309a4d78e50725c0f67971ce6c912a4e"
+  },
+  "scene-town-near-left-grass-day-autumn-v15": {
+    "url": "/art/v15/scene-town-near-left-grass-day-autumn-v15.webp",
+    "dimensions": [
+      624,
+      132
+    ],
+    "outputBytes": 25434,
+    "sha256": "102594bbd65409e486ce530d8dd568c124d0c4f86f5408c1c100725a7b5cfc77"
+  },
+  "scene-town-near-right-grass-day-autumn-v15": {
+    "url": "/art/v15/scene-town-near-right-grass-day-autumn-v15.webp",
+    "dimensions": [
+      570,
+      135
+    ],
+    "outputBytes": 22052,
+    "sha256": "5c3b1877839ed03241fa8ca7b6e24a3ffaefaf2571f514f21ff6438632765e83"
+  },
+  "scene-town-notice-case-day-autumn-v15": {
+    "url": "/art/v15/scene-town-notice-case-day-autumn-v15.webp",
+    "dimensions": [
+      330,
+      474
+    ],
+    "outputBytes": 34152,
+    "sha256": "745b1789c24eb451f37763489baf0a45f1bf474f8b29430d55adecaf24629643"
+  }
+}

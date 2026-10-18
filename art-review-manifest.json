@@ -1,0 +1,2324 @@
+[
+  {
+    "id": "actor-ada-scene-v9",
+    "src": "/art/optimized/actor-ada-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "actor-amos-scene-v9",
+    "src": "/art/optimized/actor-amos-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "actor-beatriz-scene-v9",
+    "src": "/art/optimized/actor-beatriz-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "actor-elsie-scene-v9",
+    "src": "/art/optimized/actor-elsie-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "actor-hannah-scene-v9",
+    "src": "/art/optimized/actor-hannah-scene-v9.webp",
+    "width": 1036,
+    "height": 1519
+  },
+  {
+    "id": "actor-isaac-scene-v9",
+    "src": "/art/optimized/actor-isaac-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "actor-leona-scene-v9",
+    "src": "/art/optimized/actor-leona-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "actor-ruth-scene-v9",
+    "src": "/art/optimized/actor-ruth-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "actor-simon-scene-v9",
+    "src": "/art/optimized/actor-simon-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "apple",
+    "src": "/art/optimized/apple.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "apple-compote",
+    "src": "/art/optimized/apple-compote.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "beans",
+    "src": "/art/optimized/beans.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "biscuit",
+    "src": "/art/optimized/biscuit.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "blue-map",
+    "src": "/art/optimized/blue-map.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "boiled-egg-v6",
+    "src": "/art/optimized/boiled-egg-v6.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "boiled-potatoes-v6",
+    "src": "/art/optimized/boiled-potatoes-v6.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "book-blue",
+    "src": "/art/optimized/book-blue.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "book-green",
+    "src": "/art/optimized/book-green.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "book-panel",
+    "src": "/art/optimized/book-panel.webp",
+    "width": 1536,
+    "height": 961
+  },
+  {
+    "id": "book-red",
+    "src": "/art/optimized/book-red.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "boots",
+    "src": "/art/optimized/boots.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "brass-marker",
+    "src": "/art/optimized/brass-marker.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "butter",
+    "src": "/art/optimized/butter.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "button-main",
+    "src": "/art/optimized/button-main.webp",
+    "width": 1024,
+    "height": 409
+  },
+  {
+    "id": "button-small",
+    "src": "/art/optimized/button-small.webp",
+    "width": 768,
+    "height": 307
+  },
+  {
+    "id": "calendar-appointment-v8",
+    "src": "/art/optimized/calendar-appointment-v8.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "calendar-birthday-v8",
+    "src": "/art/optimized/calendar-birthday-v8.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "calendar-christmas-v8",
+    "src": "/art/optimized/calendar-christmas-v8.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "calendar-independence-v8",
+    "src": "/art/optimized/calendar-independence-v8.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "calendar-meeting-v8",
+    "src": "/art/optimized/calendar-meeting-v8.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "calendar-newyear-v8",
+    "src": "/art/optimized/calendar-newyear-v8.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "calendar-spring-v8",
+    "src": "/art/optimized/calendar-spring-v8.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "calendar-thanksgiving-v8",
+    "src": "/art/optimized/calendar-thanksgiving-v8.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "canteen",
+    "src": "/art/optimized/canteen.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "coffee",
+    "src": "/art/optimized/coffee.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "compass",
+    "src": "/art/optimized/compass.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "cornbread",
+    "src": "/art/optimized/cornbread.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "cornmeal",
+    "src": "/art/optimized/cornmeal.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "cornmeal-mush-v6",
+    "src": "/art/optimized/cornmeal-mush-v6.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "cursor",
+    "src": "/art/optimized/cursor.webp",
+    "width": 64,
+    "height": 64
+  },
+  {
+    "id": "cursor-arrow-v11-32",
+    "src": "/art/optimized/cursor-arrow-v11-32.webp",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "id": "cursor-arrow-v11-40",
+    "src": "/art/optimized/cursor-arrow-v11-40.webp",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "id": "cursor-interact-v11-32",
+    "src": "/art/optimized/cursor-interact-v11-32.webp",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "id": "cursor-interact-v11-40",
+    "src": "/art/optimized/cursor-interact-v11-40.webp",
+    "width": 40,
+    "height": 40
+  },
+  {
+    "id": "cursor-interact-v12-32",
+    "src": "/art/optimized/cursor-interact-v12-32.webp",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "id": "cursor-interact-v12-44",
+    "src": "/art/optimized/cursor-interact-v12-44.webp",
+    "width": 44,
+    "height": 44
+  },
+  {
+    "id": "cursor-v10",
+    "src": "/art/optimized/cursor-v10.webp",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "id": "dry-beans",
+    "src": "/art/optimized/dry-beans.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "dutch-oven",
+    "src": "/art/optimized/dutch-oven.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "egg",
+    "src": "/art/optimized/egg.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "flour",
+    "src": "/art/optimized/flour.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "fried-fish",
+    "src": "/art/optimized/fried-fish.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "fx-leaf-autumn-v21",
+    "src": "/art/v21/fx-leaf-autumn-v21.webp",
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "fx-leaf-cottonwood-v21",
+    "src": "/art/v21/fx-leaf-cottonwood-v21.webp",
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "fx-leaf-willow-v21",
+    "src": "/art/v21/fx-leaf-willow-v21.webp",
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "gear",
+    "src": "/art/optimized/gear.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "gramophone",
+    "src": "/art/optimized/gramophone.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "icon-achievement-v3",
+    "src": "/art/optimized/icon-achievement-v3.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "icon-camp",
+    "src": "/art/optimized/icon-camp.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "icon-coin",
+    "src": "/art/optimized/icon-coin.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "icon-court",
+    "src": "/art/optimized/icon-court.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "icon-frame",
+    "src": "/art/optimized/icon-frame.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "icon-library",
+    "src": "/art/optimized/icon-library.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "icon-mine",
+    "src": "/art/optimized/icon-mine.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "icon-post",
+    "src": "/art/optimized/icon-post.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "icon-ridge",
+    "src": "/art/optimized/icon-ridge.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "icon-station",
+    "src": "/art/optimized/icon-station.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "icon-step",
+    "src": "/art/optimized/icon-step.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "icon-step-done",
+    "src": "/art/optimized/icon-step-done.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "icon-store",
+    "src": "/art/optimized/icon-store.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "icon-talk-v3",
+    "src": "/art/optimized/icon-talk-v3.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "icon-town",
+    "src": "/art/optimized/icon-town.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "jerky",
+    "src": "/art/optimized/jerky.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "lantern",
+    "src": "/art/optimized/lantern.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "leaf",
+    "src": "/art/optimized/leaf.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "logo-emblem",
+    "src": "/art/optimized/logo-emblem.webp",
+    "width": 768,
+    "height": 768
+  },
+  {
+    "id": "map-carson-v20",
+    "src": "/art/v20/map-carson-v20.webp",
+    "width": 5760,
+    "height": 3240
+  },
+  {
+    "id": "map-highlight-county-mine-v21",
+    "src": "/art/v21/map-highlight-county-mine-v21.webp",
+    "width": 354,
+    "height": 200
+  },
+  {
+    "id": "map-highlight-county-town-v21",
+    "src": "/art/v21/map-highlight-county-town-v21.webp",
+    "width": 470,
+    "height": 354
+  },
+  {
+    "id": "map-highlight-town-court-v21",
+    "src": "/art/v21/map-highlight-town-court-v21.webp",
+    "width": 219,
+    "height": 225
+  },
+  {
+    "id": "map-highlight-town-library-v21",
+    "src": "/art/v21/map-highlight-town-library-v21.webp",
+    "width": 231,
+    "height": 225
+  },
+  {
+    "id": "map-highlight-town-post-v21",
+    "src": "/art/v21/map-highlight-town-post-v21.webp",
+    "width": 234,
+    "height": 222
+  },
+  {
+    "id": "map-highlight-town-ridge-v21",
+    "src": "/art/v21/map-highlight-town-ridge-v21.webp",
+    "width": 453,
+    "height": 447
+  },
+  {
+    "id": "map-highlight-town-station-v21",
+    "src": "/art/v21/map-highlight-town-station-v21.webp",
+    "width": 234,
+    "height": 216
+  },
+  {
+    "id": "map-highlight-town-store-v21",
+    "src": "/art/v21/map-highlight-town-store-v21.webp",
+    "width": 219,
+    "height": 216
+  },
+  {
+    "id": "map-highlight-town-town-v21",
+    "src": "/art/v21/map-highlight-town-town-v21.webp",
+    "width": 222,
+    "height": 225
+  },
+  {
+    "id": "map-regional-v21",
+    "src": "/art/v21/map-regional-v21.webp",
+    "width": 3840,
+    "height": 2160
+  },
+  {
+    "id": "map-regional-v23",
+    "src": "/art/v23/map-regional-v23.webp",
+    "width": 5760,
+    "height": 3240
+  },
+  {
+    "id": "map-symbol-court-v19",
+    "src": "/art/v19/map-symbol-court-v19.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "map-symbol-library-v19",
+    "src": "/art/v19/map-symbol-library-v19.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "map-symbol-mine-v19",
+    "src": "/art/v19/map-symbol-mine-v19.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "map-symbol-post-v19",
+    "src": "/art/v19/map-symbol-post-v19.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "map-symbol-ridge-v19",
+    "src": "/art/v19/map-symbol-ridge-v19.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "map-symbol-station-v19",
+    "src": "/art/v19/map-symbol-station-v19.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "map-symbol-store-v19",
+    "src": "/art/v19/map-symbol-store-v19.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "map-symbol-town-v19",
+    "src": "/art/v19/map-symbol-town-v19.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "milk",
+    "src": "/art/optimized/milk.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "newspaper",
+    "src": "/art/optimized/newspaper.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "notebook",
+    "src": "/art/optimized/notebook.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "noticeboard",
+    "src": "/art/optimized/noticeboard.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "onion",
+    "src": "/art/optimized/onion.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "pan-potatoes",
+    "src": "/art/optimized/pan-potatoes.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "panel",
+    "src": "/art/optimized/panel.webp",
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "id": "pickaxe",
+    "src": "/art/optimized/pickaxe.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "portrait-ada-autumn-dialogue-v9",
+    "src": "/art/optimized/portrait-ada-autumn-dialogue-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-ada-autumn-scene-v9",
+    "src": "/art/optimized/portrait-ada-autumn-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-ada-original-v9",
+    "src": "/art/optimized/portrait-ada-original-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-ada-spring-dialogue-v9",
+    "src": "/art/optimized/portrait-ada-spring-dialogue-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-ada-spring-scene-v9",
+    "src": "/art/optimized/portrait-ada-spring-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-ada-summer-dialogue-v9",
+    "src": "/art/optimized/portrait-ada-summer-dialogue-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-ada-summer-scene-v9",
+    "src": "/art/optimized/portrait-ada-summer-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-ada-winter-dialogue-v9",
+    "src": "/art/optimized/portrait-ada-winter-dialogue-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-ada-winter-scene-v9",
+    "src": "/art/optimized/portrait-ada-winter-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-amos-autumn-dialogue-v9",
+    "src": "/art/optimized/portrait-amos-autumn-dialogue-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-amos-autumn-scene-v9",
+    "src": "/art/optimized/portrait-amos-autumn-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-amos-original-v9",
+    "src": "/art/optimized/portrait-amos-original-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-amos-spring-dialogue-v9",
+    "src": "/art/optimized/portrait-amos-spring-dialogue-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-amos-spring-scene-v9",
+    "src": "/art/optimized/portrait-amos-spring-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-amos-summer-dialogue-v9",
+    "src": "/art/optimized/portrait-amos-summer-dialogue-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-amos-summer-scene-v9",
+    "src": "/art/optimized/portrait-amos-summer-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-amos-winter-dialogue-v9",
+    "src": "/art/optimized/portrait-amos-winter-dialogue-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-amos-winter-scene-v9",
+    "src": "/art/optimized/portrait-amos-winter-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-beatriz-autumn-dialogue-v9",
+    "src": "/art/optimized/portrait-beatriz-autumn-dialogue-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-beatriz-autumn-scene-v9",
+    "src": "/art/optimized/portrait-beatriz-autumn-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-beatriz-original-v9",
+    "src": "/art/optimized/portrait-beatriz-original-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-beatriz-spring-dialogue-v9",
+    "src": "/art/optimized/portrait-beatriz-spring-dialogue-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-beatriz-spring-scene-v9",
+    "src": "/art/optimized/portrait-beatriz-spring-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-beatriz-summer-dialogue-v9",
+    "src": "/art/optimized/portrait-beatriz-summer-dialogue-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-beatriz-summer-scene-v9",
+    "src": "/art/optimized/portrait-beatriz-summer-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-beatriz-winter-dialogue-v9",
+    "src": "/art/optimized/portrait-beatriz-winter-dialogue-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-beatriz-winter-scene-v9",
+    "src": "/art/optimized/portrait-beatriz-winter-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-carpenter",
+    "src": "/art/optimized/portrait-carpenter.webp",
+    "width": 683,
+    "height": 1024
+  },
+  {
+    "id": "portrait-clara",
+    "src": "/art/optimized/portrait-clara.webp",
+    "width": 683,
+    "height": 1024
+  },
+  {
+    "id": "portrait-clara-autumn-dialogue-v9",
+    "src": "/art/optimized/portrait-clara-autumn-dialogue-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-clara-autumn-scene-v9",
+    "src": "/art/optimized/portrait-clara-autumn-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-clara-dialogue-v9",
+    "src": "/art/optimized/portrait-clara-dialogue-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-clara-evening",
+    "src": "/art/optimized/portrait-clara-evening.webp",
+    "width": 683,
+    "height": 1024
+  },
+  {
+    "id": "portrait-clara-evening-autumn-dialogue-v10",
+    "src": "/art/optimized/portrait-clara-evening-autumn-dialogue-v10.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-clara-evening-autumn-scene-v10",
+    "src": "/art/optimized/portrait-clara-evening-autumn-scene-v10.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-clara-evening-dialogue-v9",
+    "src": "/art/optimized/portrait-clara-evening-dialogue-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-clara-evening-spring-dialogue-v10",
+    "src": "/art/optimized/portrait-clara-evening-spring-dialogue-v10.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-clara-evening-spring-dialogue-v15",
+    "src": "/art/v15/portrait-clara-evening-spring-dialogue-v15.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-clara-evening-spring-scene-v10",
+    "src": "/art/optimized/portrait-clara-evening-spring-scene-v10.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-clara-evening-spring-scene-v15",
+    "src": "/art/v15/portrait-clara-evening-spring-scene-v15.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-clara-evening-summer-dialogue-v10",
+    "src": "/art/optimized/portrait-clara-evening-summer-dialogue-v10.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-clara-evening-summer-scene-v10",
+    "src": "/art/optimized/portrait-clara-evening-summer-scene-v10.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-clara-evening-v4",
+    "src": "/art/optimized/portrait-clara-evening-v4.webp",
+    "width": 683,
+    "height": 1024
+  },
+  {
+    "id": "portrait-clara-evening-v4-original-v9",
+    "src": "/art/optimized/portrait-clara-evening-v4-original-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-clara-evening-winter-dialogue-v10",
+    "src": "/art/optimized/portrait-clara-evening-winter-dialogue-v10.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-clara-evening-winter-scene-v10",
+    "src": "/art/optimized/portrait-clara-evening-winter-scene-v10.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-clara-everyday-spring-dialogue-v15",
+    "src": "/art/v15/portrait-clara-everyday-spring-dialogue-v15.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-clara-everyday-spring-scene-v15",
+    "src": "/art/v15/portrait-clara-everyday-spring-scene-v15.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-clara-original-v9",
+    "src": "/art/optimized/portrait-clara-original-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-clara-scene-v9",
+    "src": "/art/optimized/portrait-clara-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-clara-spring-dialogue-v9",
+    "src": "/art/optimized/portrait-clara-spring-dialogue-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-clara-spring-scene-v9",
+    "src": "/art/optimized/portrait-clara-spring-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-clara-summer-dialogue-v9",
+    "src": "/art/optimized/portrait-clara-summer-dialogue-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-clara-summer-scene-v9",
+    "src": "/art/optimized/portrait-clara-summer-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-clara-winter",
+    "src": "/art/optimized/portrait-clara-winter.webp",
+    "width": 683,
+    "height": 1024
+  },
+  {
+    "id": "portrait-clara-winter-dialogue-v9",
+    "src": "/art/optimized/portrait-clara-winter-dialogue-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-clara-winter-v4",
+    "src": "/art/optimized/portrait-clara-winter-v4.webp",
+    "width": 683,
+    "height": 1024
+  },
+  {
+    "id": "portrait-clara-winter-v4-original-v9",
+    "src": "/art/optimized/portrait-clara-winter-v4-original-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-clerk",
+    "src": "/art/optimized/portrait-clerk.webp",
+    "width": 683,
+    "height": 1024
+  },
+  {
+    "id": "portrait-cook",
+    "src": "/art/optimized/portrait-cook.webp",
+    "width": 683,
+    "height": 1024
+  },
+  {
+    "id": "portrait-courier",
+    "src": "/art/optimized/portrait-courier.webp",
+    "width": 683,
+    "height": 1024
+  },
+  {
+    "id": "portrait-elsie-autumn-dialogue-v9",
+    "src": "/art/optimized/portrait-elsie-autumn-dialogue-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-elsie-autumn-scene-v9",
+    "src": "/art/optimized/portrait-elsie-autumn-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-elsie-dialogue-v9",
+    "src": "/art/optimized/portrait-elsie-dialogue-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-elsie-original-v9",
+    "src": "/art/optimized/portrait-elsie-original-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-elsie-spring-dialogue-v9",
+    "src": "/art/optimized/portrait-elsie-spring-dialogue-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-elsie-spring-scene-v9",
+    "src": "/art/optimized/portrait-elsie-spring-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-elsie-summer-dialogue-v9",
+    "src": "/art/optimized/portrait-elsie-summer-dialogue-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-elsie-summer-scene-v9",
+    "src": "/art/optimized/portrait-elsie-summer-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-elsie-winter-dialogue-v9",
+    "src": "/art/optimized/portrait-elsie-winter-dialogue-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-elsie-winter-scene-v9",
+    "src": "/art/optimized/portrait-elsie-winter-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-foreman",
+    "src": "/art/optimized/portrait-foreman.webp",
+    "width": 683,
+    "height": 1024
+  },
+  {
+    "id": "portrait-gideon",
+    "src": "/art/optimized/portrait-gideon.webp",
+    "width": 683,
+    "height": 1024
+  },
+  {
+    "id": "portrait-gideon-original-v9",
+    "src": "/art/optimized/portrait-gideon-original-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-hannah-autumn-dialogue-v9",
+    "src": "/art/optimized/portrait-hannah-autumn-dialogue-v9.webp",
+    "width": 1036,
+    "height": 1518
+  },
+  {
+    "id": "portrait-hannah-autumn-scene-v9",
+    "src": "/art/optimized/portrait-hannah-autumn-scene-v9.webp",
+    "width": 1036,
+    "height": 1518
+  },
+  {
+    "id": "portrait-hannah-original-v9",
+    "src": "/art/optimized/portrait-hannah-original-v9.webp",
+    "width": 1035,
+    "height": 1519
+  },
+  {
+    "id": "portrait-hannah-spring-dialogue-v9",
+    "src": "/art/optimized/portrait-hannah-spring-dialogue-v9.webp",
+    "width": 1036,
+    "height": 1518
+  },
+  {
+    "id": "portrait-hannah-spring-scene-v9",
+    "src": "/art/optimized/portrait-hannah-spring-scene-v9.webp",
+    "width": 1036,
+    "height": 1518
+  },
+  {
+    "id": "portrait-hannah-summer-dialogue-v9",
+    "src": "/art/optimized/portrait-hannah-summer-dialogue-v9.webp",
+    "width": 1036,
+    "height": 1518
+  },
+  {
+    "id": "portrait-hannah-summer-scene-v9",
+    "src": "/art/optimized/portrait-hannah-summer-scene-v9.webp",
+    "width": 1036,
+    "height": 1518
+  },
+  {
+    "id": "portrait-hannah-winter-dialogue-v9",
+    "src": "/art/optimized/portrait-hannah-winter-dialogue-v9.webp",
+    "width": 1036,
+    "height": 1518
+  },
+  {
+    "id": "portrait-hannah-winter-scene-v9",
+    "src": "/art/optimized/portrait-hannah-winter-scene-v9.webp",
+    "width": 1036,
+    "height": 1518
+  },
+  {
+    "id": "portrait-isaac-autumn-dialogue-v9",
+    "src": "/art/optimized/portrait-isaac-autumn-dialogue-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-isaac-autumn-scene-v9",
+    "src": "/art/optimized/portrait-isaac-autumn-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-isaac-original-v9",
+    "src": "/art/optimized/portrait-isaac-original-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-isaac-spring-dialogue-v9",
+    "src": "/art/optimized/portrait-isaac-spring-dialogue-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-isaac-spring-scene-v9",
+    "src": "/art/optimized/portrait-isaac-spring-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-isaac-summer-dialogue-v9",
+    "src": "/art/optimized/portrait-isaac-summer-dialogue-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-isaac-summer-scene-v9",
+    "src": "/art/optimized/portrait-isaac-summer-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-isaac-winter-dialogue-v9",
+    "src": "/art/optimized/portrait-isaac-winter-dialogue-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-isaac-winter-scene-v9",
+    "src": "/art/optimized/portrait-isaac-winter-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-leona-autumn-dialogue-v9",
+    "src": "/art/optimized/portrait-leona-autumn-dialogue-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-leona-autumn-scene-v9",
+    "src": "/art/optimized/portrait-leona-autumn-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-leona-original-v9",
+    "src": "/art/optimized/portrait-leona-original-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-leona-spring-dialogue-v9",
+    "src": "/art/optimized/portrait-leona-spring-dialogue-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-leona-spring-scene-v9",
+    "src": "/art/optimized/portrait-leona-spring-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-leona-summer-dialogue-v9",
+    "src": "/art/optimized/portrait-leona-summer-dialogue-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-leona-summer-scene-v9",
+    "src": "/art/optimized/portrait-leona-summer-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-leona-winter-dialogue-v9",
+    "src": "/art/optimized/portrait-leona-winter-dialogue-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-leona-winter-scene-v9",
+    "src": "/art/optimized/portrait-leona-winter-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-librarian",
+    "src": "/art/optimized/portrait-librarian.webp",
+    "width": 698,
+    "height": 1024
+  },
+  {
+    "id": "portrait-ruth",
+    "src": "/art/optimized/portrait-ruth.webp",
+    "width": 683,
+    "height": 1024
+  },
+  {
+    "id": "portrait-ruth-autumn-dialogue-v9",
+    "src": "/art/optimized/portrait-ruth-autumn-dialogue-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-ruth-autumn-scene-v9",
+    "src": "/art/optimized/portrait-ruth-autumn-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-ruth-original-v9",
+    "src": "/art/optimized/portrait-ruth-original-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-ruth-spring-dialogue-v9",
+    "src": "/art/optimized/portrait-ruth-spring-dialogue-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-ruth-spring-scene-v9",
+    "src": "/art/optimized/portrait-ruth-spring-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-ruth-summer-dialogue-v9",
+    "src": "/art/optimized/portrait-ruth-summer-dialogue-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-ruth-summer-scene-v9",
+    "src": "/art/optimized/portrait-ruth-summer-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-ruth-winter-dialogue-v9",
+    "src": "/art/optimized/portrait-ruth-winter-dialogue-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-ruth-winter-scene-v9",
+    "src": "/art/optimized/portrait-ruth-winter-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-silas",
+    "src": "/art/optimized/portrait-silas.webp",
+    "width": 683,
+    "height": 1024
+  },
+  {
+    "id": "portrait-silas-original-v9",
+    "src": "/art/optimized/portrait-silas-original-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-simon-autumn-dialogue-v9",
+    "src": "/art/optimized/portrait-simon-autumn-dialogue-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-simon-autumn-scene-v9",
+    "src": "/art/optimized/portrait-simon-autumn-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-simon-original-v9",
+    "src": "/art/optimized/portrait-simon-original-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-simon-spring-dialogue-v9",
+    "src": "/art/optimized/portrait-simon-spring-dialogue-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-simon-spring-scene-v9",
+    "src": "/art/optimized/portrait-simon-spring-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-simon-summer-dialogue-v9",
+    "src": "/art/optimized/portrait-simon-summer-dialogue-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-simon-summer-scene-v9",
+    "src": "/art/optimized/portrait-simon-summer-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-simon-winter-dialogue-v9",
+    "src": "/art/optimized/portrait-simon-winter-dialogue-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-simon-winter-scene-v9",
+    "src": "/art/optimized/portrait-simon-winter-scene-v9.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-tom-evening-spring-dialogue-v15",
+    "src": "/art/v15/portrait-tom-evening-spring-dialogue-v15.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-tom-evening-spring-scene-v15",
+    "src": "/art/v15/portrait-tom-evening-spring-scene-v15.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-tom-everyday-spring-dialogue-v15",
+    "src": "/art/v15/portrait-tom-everyday-spring-dialogue-v15.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-tom-everyday-spring-scene-v15",
+    "src": "/art/v15/portrait-tom-everyday-spring-scene-v15.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "portrait-trader",
+    "src": "/art/optimized/portrait-trader.webp",
+    "width": 683,
+    "height": 1024
+  },
+  {
+    "id": "portrait-traveler",
+    "src": "/art/optimized/portrait-traveler.webp",
+    "width": 683,
+    "height": 1024
+  },
+  {
+    "id": "potato",
+    "src": "/art/optimized/potato.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "projector",
+    "src": "/art/optimized/projector.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "raw-beef",
+    "src": "/art/optimized/raw-beef.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "raw-fish",
+    "src": "/art/optimized/raw-fish.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "raw-pork",
+    "src": "/art/optimized/raw-pork.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "revolver",
+    "src": "/art/optimized/revolver.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "ribbon",
+    "src": "/art/optimized/ribbon.webp",
+    "width": 1024,
+    "height": 341
+  },
+  {
+    "id": "rope",
+    "src": "/art/optimized/rope.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "satchel",
+    "src": "/art/optimized/satchel.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "saucepan",
+    "src": "/art/optimized/saucepan.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "scene-court-copy-ledger-day-autumn-v15",
+    "src": "/art/v15/scene-court-copy-ledger-day-autumn-v15.webp",
+    "width": 122,
+    "height": 46
+  },
+  {
+    "id": "scene-court-county-entry-day-autumn-v15",
+    "src": "/art/v15/scene-court-county-entry-day-autumn-v15.webp",
+    "width": 243,
+    "height": 471
+  },
+  {
+    "id": "scene-court-day-autumn-v15",
+    "src": "/art/v15/scene-court-day-autumn-v15.webp",
+    "width": 5760,
+    "height": 2160
+  },
+  {
+    "id": "scene-court-foreground-hitching-rail-day-autumn-v15",
+    "src": "/art/v15/scene-court-foreground-hitching-rail-day-autumn-v15.webp",
+    "width": 634,
+    "height": 422
+  },
+  {
+    "id": "scene-court-foreground-tree-root-day-autumn-v15",
+    "src": "/art/v15/scene-court-foreground-tree-root-day-autumn-v15.webp",
+    "width": 409,
+    "height": 875
+  },
+  {
+    "id": "scene-mine-day-autumn-v15",
+    "src": "/art/v15/scene-mine-day-autumn-v15.webp",
+    "width": 5760,
+    "height": 2160
+  },
+  {
+    "id": "scene-mine-foreground-left-day-autumn-v15",
+    "src": "/art/v15/scene-mine-foreground-left-day-autumn-v15.webp",
+    "width": 1673,
+    "height": 484
+  },
+  {
+    "id": "scene-mine-foreground-right-day-autumn-v15",
+    "src": "/art/v15/scene-mine-foreground-right-day-autumn-v15.webp",
+    "width": 1366,
+    "height": 334
+  },
+  {
+    "id": "scene-mine-posted-warning-day-autumn-v15",
+    "src": "/art/v15/scene-mine-posted-warning-day-autumn-v15.webp",
+    "width": 347,
+    "height": 308
+  },
+  {
+    "id": "scene-mine-shaft-entry-day-autumn-v15",
+    "src": "/art/v15/scene-mine-shaft-entry-day-autumn-v15.webp",
+    "width": 409,
+    "height": 487
+  },
+  {
+    "id": "scene-mine-survey-ore-day-autumn-v15",
+    "src": "/art/v15/scene-mine-survey-ore-day-autumn-v15.webp",
+    "width": 865,
+    "height": 203
+  },
+  {
+    "id": "scene-mine-tool-rack-day-autumn-v15",
+    "src": "/art/v15/scene-mine-tool-rack-day-autumn-v15.webp",
+    "width": 353,
+    "height": 501
+  },
+  {
+    "id": "scene-post-day-autumn-benchFront-v15",
+    "src": "/art/v15/scene-post-day-autumn-benchFront-v15.webp",
+    "width": 595,
+    "height": 280
+  },
+  {
+    "id": "scene-post-day-autumn-benchLetter-v15",
+    "src": "/art/v15/scene-post-day-autumn-benchLetter-v15.webp",
+    "width": 100,
+    "height": 44
+  },
+  {
+    "id": "scene-post-day-autumn-hitchRail-v15",
+    "src": "/art/v15/scene-post-day-autumn-hitchRail-v15.webp",
+    "width": 1217,
+    "height": 520
+  },
+  {
+    "id": "scene-post-day-autumn-mailbag-v15",
+    "src": "/art/v15/scene-post-day-autumn-mailbag-v15.webp",
+    "width": 205,
+    "height": 303
+  },
+  {
+    "id": "scene-post-day-autumn-notice-v15",
+    "src": "/art/v15/scene-post-day-autumn-notice-v15.webp",
+    "width": 188,
+    "height": 294
+  },
+  {
+    "id": "scene-post-day-autumn-trough-v15",
+    "src": "/art/v15/scene-post-day-autumn-trough-v15.webp",
+    "width": 654,
+    "height": 288
+  },
+  {
+    "id": "scene-post-day-autumn-v15",
+    "src": "/art/v15/scene-post-day-autumn-v15.webp",
+    "width": 5760,
+    "height": 2160
+  },
+  {
+    "id": "scene-ridge-day-autumn-v15",
+    "src": "/art/v15/scene-ridge-day-autumn-v15.webp",
+    "width": 5760,
+    "height": 2160
+  },
+  {
+    "id": "scene-ridge-document-case-day-autumn-v15",
+    "src": "/art/v15/scene-ridge-document-case-day-autumn-v15.webp",
+    "width": 207,
+    "height": 97
+  },
+  {
+    "id": "scene-ridge-foreground-left-day-autumn-v15",
+    "src": "/art/v15/scene-ridge-foreground-left-day-autumn-v15.webp",
+    "width": 1039,
+    "height": 448
+  },
+  {
+    "id": "scene-ridge-foreground-right-day-autumn-v15",
+    "src": "/art/v15/scene-ridge-foreground-right-day-autumn-v15.webp",
+    "width": 920,
+    "height": 450
+  },
+  {
+    "id": "scene-ridge-front-stone-day-autumn-v15",
+    "src": "/art/v15/scene-ridge-front-stone-day-autumn-v15.webp",
+    "width": 80,
+    "height": 108
+  },
+  {
+    "id": "scene-school-day-autumn-benchBook-v15",
+    "src": "/art/v15/scene-school-day-autumn-benchBook-v15.webp",
+    "width": 185,
+    "height": 55
+  },
+  {
+    "id": "scene-school-day-autumn-benchFront-v15",
+    "src": "/art/v15/scene-school-day-autumn-benchFront-v15.webp",
+    "width": 781,
+    "height": 179
+  },
+  {
+    "id": "scene-school-day-autumn-door-v15",
+    "src": "/art/v15/scene-school-day-autumn-door-v15.webp",
+    "width": 157,
+    "height": 337
+  },
+  {
+    "id": "scene-school-day-autumn-gatePost-v15",
+    "src": "/art/v15/scene-school-day-autumn-gatePost-v15.webp",
+    "width": 953,
+    "height": 584
+  },
+  {
+    "id": "scene-school-day-autumn-notice-v15",
+    "src": "/art/v15/scene-school-day-autumn-notice-v15.webp",
+    "width": 121,
+    "height": 185
+  },
+  {
+    "id": "scene-school-day-autumn-v15",
+    "src": "/art/v15/scene-school-day-autumn-v15.webp",
+    "width": 5760,
+    "height": 2160
+  },
+  {
+    "id": "scene-school-reading-day-autumn-books-v17",
+    "src": "/art/v17/scene-school-reading-day-autumn-books-v17.webp",
+    "width": 424,
+    "height": 860
+  },
+  {
+    "id": "scene-school-reading-day-autumn-exitDoor-v17",
+    "src": "/art/v17/scene-school-reading-day-autumn-exitDoor-v17.webp",
+    "width": 390,
+    "height": 1598
+  },
+  {
+    "id": "scene-school-reading-day-autumn-ledger-v17",
+    "src": "/art/v17/scene-school-reading-day-autumn-ledger-v17.webp",
+    "width": 109,
+    "height": 38
+  },
+  {
+    "id": "scene-school-reading-day-autumn-leftPupilChair-v17",
+    "src": "/art/v17/scene-school-reading-day-autumn-leftPupilChair-v17.webp",
+    "width": 869,
+    "height": 773
+  },
+  {
+    "id": "scene-school-reading-day-autumn-rightPupilChair-v17",
+    "src": "/art/v17/scene-school-reading-day-autumn-rightPupilChair-v17.webp",
+    "width": 812,
+    "height": 793
+  },
+  {
+    "id": "scene-school-reading-day-autumn-v17",
+    "src": "/art/v17/scene-school-reading-day-autumn-v17.webp",
+    "width": 5760,
+    "height": 2160
+  },
+  {
+    "id": "scene-screening-room-v21",
+    "src": "/art/v21/scene-screening-room-v21.webp",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "id": "scene-station-baggage-cart-day-autumn-v15",
+    "src": "/art/v15/scene-station-baggage-cart-day-autumn-v15.webp",
+    "width": 383,
+    "height": 167
+  },
+  {
+    "id": "scene-station-day-autumn-v15",
+    "src": "/art/v15/scene-station-day-autumn-v15.webp",
+    "width": 5760,
+    "height": 2160
+  },
+  {
+    "id": "scene-station-foreground-platform-edge-day-autumn-v15",
+    "src": "/art/v15/scene-station-foreground-platform-edge-day-autumn-v15.webp",
+    "width": 5612,
+    "height": 423
+  },
+  {
+    "id": "scene-station-notice-case-day-autumn-v15",
+    "src": "/art/v15/scene-station-notice-case-day-autumn-v15.webp",
+    "width": 147,
+    "height": 215
+  },
+  {
+    "id": "scene-station-parcel-day-autumn-v15",
+    "src": "/art/v15/scene-station-parcel-day-autumn-v15.webp",
+    "width": 124,
+    "height": 108
+  },
+  {
+    "id": "scene-station-waiting-room-baggage-day-autumn-v15",
+    "src": "/art/v15/scene-station-waiting-room-baggage-day-autumn-v15.webp",
+    "width": 307,
+    "height": 488
+  },
+  {
+    "id": "scene-station-waiting-room-bench-paper-day-autumn-v15",
+    "src": "/art/v15/scene-station-waiting-room-bench-paper-day-autumn-v15.webp",
+    "width": 496,
+    "height": 156
+  },
+  {
+    "id": "scene-station-waiting-room-day-autumn-v15",
+    "src": "/art/v15/scene-station-waiting-room-day-autumn-v15.webp",
+    "width": 5760,
+    "height": 2160
+  },
+  {
+    "id": "scene-station-waiting-room-door-day-autumn-v15",
+    "src": "/art/v15/scene-station-waiting-room-door-day-autumn-v15.webp",
+    "width": 91,
+    "height": 276
+  },
+  {
+    "id": "scene-station-waiting-room-foreground-left-bench-day-autumn-v15",
+    "src": "/art/v15/scene-station-waiting-room-foreground-left-bench-day-autumn-v15.webp",
+    "width": 1247,
+    "height": 863
+  },
+  {
+    "id": "scene-station-waiting-room-foreground-right-bench-day-autumn-v15",
+    "src": "/art/v15/scene-station-waiting-room-foreground-right-bench-day-autumn-v15.webp",
+    "width": 892,
+    "height": 858
+  },
+  {
+    "id": "scene-station-waiting-room-platform-door-day-autumn-v15",
+    "src": "/art/v15/scene-station-waiting-room-platform-door-day-autumn-v15.webp",
+    "width": 553,
+    "height": 1637
+  },
+  {
+    "id": "scene-station-waiting-room-ticket-ledger-day-autumn-v15",
+    "src": "/art/v15/scene-station-waiting-room-ticket-ledger-day-autumn-v15.webp",
+    "width": 200,
+    "height": 43
+  },
+  {
+    "id": "scene-store-back-entry-day-autumn-v15",
+    "src": "/art/v15/scene-store-back-entry-day-autumn-v15.webp",
+    "width": 82,
+    "height": 555
+  },
+  {
+    "id": "scene-store-day-autumn-v15",
+    "src": "/art/v15/scene-store-day-autumn-v15.webp",
+    "width": 5760,
+    "height": 2160
+  },
+  {
+    "id": "scene-store-delivery-crate-day-autumn-v15",
+    "src": "/art/v15/scene-store-delivery-crate-day-autumn-v15.webp",
+    "width": 333,
+    "height": 192
+  },
+  {
+    "id": "scene-store-delivery-tag-day-autumn-v15",
+    "src": "/art/v15/scene-store-delivery-tag-day-autumn-v15.webp",
+    "width": 58,
+    "height": 91
+  },
+  {
+    "id": "scene-store-foreground-left-rail-day-autumn-v15",
+    "src": "/art/v15/scene-store-foreground-left-rail-day-autumn-v15.webp",
+    "width": 2096,
+    "height": 353
+  },
+  {
+    "id": "scene-store-foreground-platform-day-autumn-v15",
+    "src": "/art/v15/scene-store-foreground-platform-day-autumn-v15.webp",
+    "width": 5760,
+    "height": 170
+  },
+  {
+    "id": "scene-store-foreground-right-rail-day-autumn-v15",
+    "src": "/art/v15/scene-store-foreground-right-rail-day-autumn-v15.webp",
+    "width": 582,
+    "height": 361
+  },
+  {
+    "id": "scene-store-older-crate-day-autumn-v15",
+    "src": "/art/v15/scene-store-older-crate-day-autumn-v15.webp",
+    "width": 235,
+    "height": 130
+  },
+  {
+    "id": "scene-store-shop-entry-day-autumn-v15",
+    "src": "/art/v15/scene-store-shop-entry-day-autumn-v15.webp",
+    "width": 375,
+    "height": 760
+  },
+  {
+    "id": "scene-store-stockroom-collection-case-day-autumn-v16",
+    "src": "/art/v16/scene-store-stockroom-collection-case-day-autumn-v16.webp",
+    "width": 201,
+    "height": 125
+  },
+  {
+    "id": "scene-store-stockroom-day-autumn-v16",
+    "src": "/art/v16/scene-store-stockroom-day-autumn-v16.webp",
+    "width": 5760,
+    "height": 2160
+  },
+  {
+    "id": "scene-store-stockroom-delivery-boxes-day-autumn-v16",
+    "src": "/art/v16/scene-store-stockroom-delivery-boxes-day-autumn-v16.webp",
+    "width": 425,
+    "height": 445
+  },
+  {
+    "id": "scene-store-stockroom-exit-day-autumn-v16",
+    "src": "/art/v16/scene-store-stockroom-exit-day-autumn-v16.webp",
+    "width": 451,
+    "height": 2160
+  },
+  {
+    "id": "scene-store-stockroom-foreground-barrel-crate-day-autumn-v16",
+    "src": "/art/v16/scene-store-stockroom-foreground-barrel-crate-day-autumn-v16.webp",
+    "width": 777,
+    "height": 637
+  },
+  {
+    "id": "scene-store-stockroom-foreground-left-stock-day-autumn-v16",
+    "src": "/art/v16/scene-store-stockroom-foreground-left-stock-day-autumn-v16.webp",
+    "width": 698,
+    "height": 566
+  },
+  {
+    "id": "scene-store-stockroom-foreground-right-goods-day-autumn-v16",
+    "src": "/art/v16/scene-store-stockroom-foreground-right-goods-day-autumn-v16.webp",
+    "width": 652,
+    "height": 1127
+  },
+  {
+    "id": "scene-store-stockroom-kitchen-range-day-autumn-v16",
+    "src": "/art/v16/scene-store-stockroom-kitchen-range-day-autumn-v16.webp",
+    "width": 392,
+    "height": 692
+  },
+  {
+    "id": "scene-store-stockroom-receiving-book-day-autumn-v16",
+    "src": "/art/v16/scene-store-stockroom-receiving-book-day-autumn-v16.webp",
+    "width": 226,
+    "height": 49
+  },
+  {
+    "id": "scene-store-stockroom-recipe-books-day-autumn-v16",
+    "src": "/art/v16/scene-store-stockroom-recipe-books-day-autumn-v16.webp",
+    "width": 170,
+    "height": 88
+  },
+  {
+    "id": "scene-store-stockroom-shop-scale-day-autumn-v16",
+    "src": "/art/v16/scene-store-stockroom-shop-scale-day-autumn-v16.webp",
+    "width": 513,
+    "height": 212
+  },
+  {
+    "id": "scene-store-stockroom-stock-book-day-autumn-v16",
+    "src": "/art/v16/scene-store-stockroom-stock-book-day-autumn-v16.webp",
+    "width": 358,
+    "height": 74
+  },
+  {
+    "id": "scene-store-stockroom-upstairs-day-autumn-v16",
+    "src": "/art/v16/scene-store-stockroom-upstairs-day-autumn-v16.webp",
+    "width": 468,
+    "height": 1452
+  },
+  {
+    "id": "scene-title-v9",
+    "src": "/art/optimized/scene-title-v9.webp",
+    "width": 3840,
+    "height": 2160
+  },
+  {
+    "id": "scene-town-church-interior-bell-note-day-autumn-v16",
+    "src": "/art/v16/scene-town-church-interior-bell-note-day-autumn-v16.webp",
+    "width": 152,
+    "height": 54
+  },
+  {
+    "id": "scene-town-church-interior-day-autumn-v16",
+    "src": "/art/v16/scene-town-church-interior-day-autumn-v16.webp",
+    "width": 5760,
+    "height": 2160
+  },
+  {
+    "id": "scene-town-church-interior-exit-door-day-autumn-v16",
+    "src": "/art/v16/scene-town-church-interior-exit-door-day-autumn-v16.webp",
+    "width": 429,
+    "height": 344
+  },
+  {
+    "id": "scene-town-church-interior-front-pew-day-autumn-v16",
+    "src": "/art/v16/scene-town-church-interior-front-pew-day-autumn-v16.webp",
+    "width": 1568,
+    "height": 502
+  },
+  {
+    "id": "scene-town-church-interior-mending-paper-day-autumn-v16",
+    "src": "/art/v16/scene-town-church-interior-mending-paper-day-autumn-v16.webp",
+    "width": 231,
+    "height": 57
+  },
+  {
+    "id": "scene-town-community-paper-day-autumn-v15",
+    "src": "/art/v15/scene-town-community-paper-day-autumn-v15.webp",
+    "width": 57,
+    "height": 77
+  },
+  {
+    "id": "scene-town-day-autumn-v15",
+    "src": "/art/v15/scene-town-day-autumn-v15.webp",
+    "width": 5760,
+    "height": 2160
+  },
+  {
+    "id": "scene-town-entrance-day-autumn-v15",
+    "src": "/art/v15/scene-town-entrance-day-autumn-v15.webp",
+    "width": 147,
+    "height": 479
+  },
+  {
+    "id": "scene-town-gathering-bench-day-autumn-v15",
+    "src": "/art/v15/scene-town-gathering-bench-day-autumn-v15.webp",
+    "width": 439,
+    "height": 181
+  },
+  {
+    "id": "scene-town-near-left-grass-day-autumn-v15",
+    "src": "/art/v15/scene-town-near-left-grass-day-autumn-v15.webp",
+    "width": 624,
+    "height": 132
+  },
+  {
+    "id": "scene-town-near-right-grass-day-autumn-v15",
+    "src": "/art/v15/scene-town-near-right-grass-day-autumn-v15.webp",
+    "width": 570,
+    "height": 135
+  },
+  {
+    "id": "scene-town-notice-case-day-autumn-v15",
+    "src": "/art/v15/scene-town-notice-case-day-autumn-v15.webp",
+    "width": 330,
+    "height": 474
+  },
+  {
+    "id": "scrambled-eggs",
+    "src": "/art/optimized/scrambled-eggs.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "skillet",
+    "src": "/art/optimized/skillet.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "slot",
+    "src": "/art/optimized/slot.webp",
+    "width": 768,
+    "height": 768
+  },
+  {
+    "id": "status-ill-v8",
+    "src": "/art/optimized/status-ill-v8.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "status-satiety-v8",
+    "src": "/art/optimized/status-satiety-v8.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "status-stamina-v8",
+    "src": "/art/optimized/status-stamina-v8.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "status-tired-v8",
+    "src": "/art/optimized/status-tired-v8.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "stew",
+    "src": "/art/optimized/stew.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "suit-club-v5",
+    "src": "/art/optimized/suit-club-v5.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "suit-diamond-v5",
+    "src": "/art/optimized/suit-diamond-v5.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "suit-heart-v5",
+    "src": "/art/optimized/suit-heart-v5.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "suit-spade-v5",
+    "src": "/art/optimized/suit-spade-v5.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "telegram",
+    "src": "/art/optimized/telegram.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "throat-lozenges-v5",
+    "src": "/art/optimized/throat-lozenges-v5.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "thumb-camp-v8",
+    "src": "/art/optimized/thumb-camp-v8.webp",
+    "width": 384,
+    "height": 216
+  },
+  {
+    "id": "thumb-court-v8",
+    "src": "/art/optimized/thumb-court-v8.webp",
+    "width": 384,
+    "height": 216
+  },
+  {
+    "id": "thumb-library-v8",
+    "src": "/art/optimized/thumb-library-v8.webp",
+    "width": 384,
+    "height": 216
+  },
+  {
+    "id": "thumb-mine-v8",
+    "src": "/art/optimized/thumb-mine-v8.webp",
+    "width": 384,
+    "height": 216
+  },
+  {
+    "id": "thumb-post-v8",
+    "src": "/art/optimized/thumb-post-v8.webp",
+    "width": 384,
+    "height": 216
+  },
+  {
+    "id": "thumb-ridge-v8",
+    "src": "/art/optimized/thumb-ridge-v8.webp",
+    "width": 384,
+    "height": 216
+  },
+  {
+    "id": "thumb-station-v8",
+    "src": "/art/optimized/thumb-station-v8.webp",
+    "width": 384,
+    "height": 216
+  },
+  {
+    "id": "thumb-store-v8",
+    "src": "/art/optimized/thumb-store-v8.webp",
+    "width": 384,
+    "height": 216
+  },
+  {
+    "id": "thumb-town-v8",
+    "src": "/art/optimized/thumb-town-v8.webp",
+    "width": 384,
+    "height": 216
+  },
+  {
+    "id": "ui-achievement-toast-v4",
+    "src": "/art/optimized/ui-achievement-toast-v4.webp",
+    "width": 2172,
+    "height": 724
+  },
+  {
+    "id": "ui-button-selected-v6",
+    "src": "/art/optimized/ui-button-selected-v6.webp",
+    "width": 2172,
+    "height": 724
+  },
+  {
+    "id": "ui-button-v3",
+    "src": "/art/optimized/ui-button-v3.webp",
+    "width": 2172,
+    "height": 724
+  },
+  {
+    "id": "ui-calendar-selection-v8",
+    "src": "/art/optimized/ui-calendar-selection-v8.webp",
+    "width": 1002,
+    "height": 679
+  },
+  {
+    "id": "ui-clippings-v11",
+    "src": "/art/optimized/ui-clippings-v11.webp",
+    "width": 1254,
+    "height": 1254
+  },
+  {
+    "id": "ui-close-v3",
+    "src": "/art/optimized/ui-close-v3.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "ui-deduction-v13",
+    "src": "/art/optimized/ui-deduction-v13.webp",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "id": "ui-die-v5",
+    "src": "/art/optimized/ui-die-v5.webp",
+    "width": 1254,
+    "height": 1254
+  },
+  {
+    "id": "ui-gauge-v8",
+    "src": "/art/optimized/ui-gauge-v8.webp",
+    "width": 1442,
+    "height": 229
+  },
+  {
+    "id": "ui-gramophone-menu-v8",
+    "src": "/art/optimized/ui-gramophone-menu-v8.webp",
+    "width": 1254,
+    "height": 1254
+  },
+  {
+    "id": "ui-guide-arrow-v21",
+    "src": "/art/v21/ui-guide-arrow-v21.webp",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "id": "ui-handbook-row-v6",
+    "src": "/art/optimized/ui-handbook-row-v6.webp",
+    "width": 2172,
+    "height": 184
+  },
+  {
+    "id": "ui-held-item-v13",
+    "src": "/art/optimized/ui-held-item-v13.webp",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "id": "ui-hub-strip-v3",
+    "src": "/art/optimized/ui-hub-strip-v3.webp",
+    "width": 2172,
+    "height": 724
+  },
+  {
+    "id": "ui-labor-v19",
+    "src": "/art/v19/ui-labor-v19.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "ui-map-minus",
+    "src": "/art/optimized/ui-map-minus.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "ui-map-plus",
+    "src": "/art/optimized/ui-map-plus.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "ui-map-symbol-frame-v20",
+    "src": "/art/v20/ui-map-symbol-frame-v20.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "ui-option-v3",
+    "src": "/art/optimized/ui-option-v3.webp",
+    "width": 2172,
+    "height": 724
+  },
+  {
+    "id": "ui-pan-left-v6",
+    "src": "/art/optimized/ui-pan-left-v6.webp",
+    "width": 1086,
+    "height": 1448
+  },
+  {
+    "id": "ui-panel-base-v4",
+    "src": "/art/optimized/ui-panel-base-v4.webp",
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "id": "ui-panel-tall-v3",
+    "src": "/art/optimized/ui-panel-tall-v3.webp",
+    "width": 1122,
+    "height": 1402
+  },
+  {
+    "id": "ui-panel-tall-v4",
+    "src": "/art/optimized/ui-panel-tall-v4.webp",
+    "width": 1122,
+    "height": 1402
+  },
+  {
+    "id": "ui-panel-wide-v3",
+    "src": "/art/optimized/ui-panel-wide-v3.webp",
+    "width": 1586,
+    "height": 992
+  },
+  {
+    "id": "ui-panel-wide-v4",
+    "src": "/art/optimized/ui-panel-wide-v4.webp",
+    "width": 1585,
+    "height": 992
+  },
+  {
+    "id": "ui-recipe-row-v11",
+    "src": "/art/optimized/ui-recipe-row-v11.webp",
+    "width": 2091,
+    "height": 415
+  },
+  {
+    "id": "ui-row-v3",
+    "src": "/art/optimized/ui-row-v3.webp",
+    "width": 2172,
+    "height": 724
+  },
+  {
+    "id": "ui-save-slot-v4",
+    "src": "/art/optimized/ui-save-slot-v4.webp",
+    "width": 2172,
+    "height": 724
+  },
+  {
+    "id": "ui-slot-add-v13",
+    "src": "/art/optimized/ui-slot-add-v13.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "watch-case-v4",
+    "src": "/art/optimized/watch-case-v4.webp",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "id": "watch-hour-v4",
+    "src": "/art/optimized/watch-hour-v4.webp",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "id": "watch-minute-v4",
+    "src": "/art/optimized/watch-minute-v4.webp",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "id": "watch-second-v5",
+    "src": "/art/optimized/watch-second-v5.webp",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "id": "willow-bark-v5",
+    "src": "/art/optimized/willow-bark-v5.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "dust-wisps",
+    "src": "/art/v24/dust-wisps.webp",
+    "width": 1254,
+    "height": 1254
+  },
+  {
+    "id": "snow-crystals",
+    "src": "/art/v24/snow-crystals.webp",
+    "width": 1254,
+    "height": 1254
+  }
+]

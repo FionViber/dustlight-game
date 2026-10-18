@@ -1,0 +1,20 @@
+{
+  "dust-wisps": {
+    "url": "/art/v24/dust-wisps.webp",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "outputBytes": 656748,
+    "sha256": "6464ff0c30f8aabbfdaee04406898e2f051f2345c45b2092ff2a57596a624364"
+  },
+  "snow-crystals": {
+    "url": "/art/v24/snow-crystals.webp",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "outputBytes": 492004,
+    "sha256": "482bae239daf986a95a474fba218b1765b0382a7279010a83a71fc38514f891a"
+  }
+}

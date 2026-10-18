@@ -1,0 +1,1 @@
+window.__dustlightResource("art/v23/manifest.json","{\n  \"map-regional-v23\": {\n    \"url\": \"/art/v23/map-regional-v23.webp\",\n    \"dimensions\": [5760, 3240],\n    \"outputBytes\": 10850206,\n    \"sha256\": \"f065eda226aa8470306694068510dde66da9e1944dd7e837da40b180b1670d18\"\n  }\n}\n");
