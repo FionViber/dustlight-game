@@ -2320,5 +2320,35 @@
     "src": "/art/v24/snow-crystals.webp",
     "width": 1254,
     "height": 1254
+  },
+  {
+    "id": "ui-minigames-v26",
+    "src": "/art/v26/ui-minigames-v26.webp",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "id": "board-minigames-v26",
+    "src": "/art/v26/board-minigames-v26.webp",
+    "width": 1254,
+    "height": 1254
+  },
+  {
+    "id": "snake-head-v26",
+    "src": "/art/v26/snake-head-v26.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "snake-body-v26",
+    "src": "/art/v26/snake-body-v26.webp",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "snake-tail-v26",
+    "src": "/art/v26/snake-tail-v26.webp",
+    "width": 256,
+    "height": 256
   }
 ]

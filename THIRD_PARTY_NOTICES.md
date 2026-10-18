@@ -30,7 +30,11 @@
 
 远方新闻依据美国国会图书馆数字化报刊核实，采用简短转述；地方告示和虚构报纸名称为本项目创作。出处、刊期和价格样本见 [报刊与公告板设计.md](报刊与公告板设计.md)。没有将真实报纸扫描图作为游戏美术。
 
-交互音效与风声由Web Audio本地合成，当前没有第三方录音、电影或BGM。放映室与唱片柜仅有内容入口；以后加入具体影片或录音时，需逐项补充对应版本的来源和许可。
+交互音效与风声由Web Audio本地合成。三首BGM由用户提供；独立影音馆的两部历史影片及三首录音来源、年份和对应版本权利核查见 `art-sources/v21/media/README.md` 与运行包 `media/CREDITS.txt`。影片和音乐从本游戏静态资源加载，不向资料来源站请求播放文件。
+
+## 小游戏规则参考
+
+贪吃蛇、2048与初级数独采用本项目独立实现及新生成美术。规则与交互参考 [Gabriele Cirulli / 2048](https://github.com/gabrielecirulli/2048)、[Emrys Muhammad / snake-game](https://github.com/Emrysmuhammad/snake-game)、[Rob McGuire-Dale / sudoku.js](https://github.com/robatron/sudoku.js) 与 [Lucky Fox Design / sudoku-generator](https://github.com/luckyfoxdesign/sudoku-generator)。这些上游项目均为MIT许可；本发行包没有移植其源码、网页样式或题库。固定版本、许可链接及实际实现边界见 `art-sources/v26/MINIGAME_RESEARCH.md`。
 
 ## 连续人物动作参考
 

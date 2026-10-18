@@ -219,7 +219,12 @@
       "art/v21/scene-screening-room-v21.webp",
       "art/v21/ui-guide-arrow-v21.webp",
       "art/v23/map-regional-v23.webp",
-      "art/v24/dust-wisps.webp"
+      "art/v24/dust-wisps.webp",
+      "art/v26/board-minigames-v26.webp",
+      "art/v26/snake-body-v26.webp",
+      "art/v26/snake-head-v26.webp",
+      "art/v26/snake-tail-v26.webp",
+      "art/v26/ui-minigames-v26.webp"
     ],
     "canvas": [
       "art/optimized/actor-ada-scene-v9.webp",
@@ -398,7 +403,7 @@
       "art/v21/fx-leaf-willow-v21.webp",
       "art/v24/snow-crystals.webp"
     ],
-    "directBytes": 100579424,
+    "directBytes": 102775084,
     "canvasBytes": 37459466,
     "artUnchanged": true
   },
@@ -432,6 +437,6 @@
       "parts": 12
     }
   ],
-  "files": 651,
-  "bytes": 353903268
+  "files": 658,
+  "bytes": 356163954
 }
