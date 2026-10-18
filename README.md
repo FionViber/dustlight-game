@@ -17,7 +17,7 @@
 
 快捷键：M 地图、B 背包、J 任务、C 日历、H 手册、Esc 返回／暂停；受当前解锁状态限制。存档包含1个自动槽和3个手动槽。
 
-来源与许可见 [影音资料](art-sources/v21/media/README.md)、[声音来源](AUDIO_SOURCES.json)、[书籍](BOOK_SOURCES.md)、[第三方声明](THIRD_PARTY_NOTICES.md) 和 fonts 目录中的字体许可证。
+来源与许可见 [影音资料](art-sources/v21/media/README.md)、[声音来源](AUDIO_SOURCES.json)、[书籍](BOOK_SOURCES.md)、[第三方声明](THIRD_PARTY_NOTICES.md)。
 
 小游戏参考来源与许可：[研究记录](art-sources/v26/MINIGAME_RESEARCH.md)。
 
