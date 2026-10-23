@@ -1,0 +1,137 @@
+{
+  "post-public-entrance-v32": {
+    "url": "/art/v32/post-public-entrance-v32.webp",
+    "dimensions": [
+      274,
+      646
+    ],
+    "outputBytes": 208760,
+    "sha256": "2dfea031f1493fe82c73c6691ff6d477fb08652fce28d74a94e260293bb530ad"
+  },
+  "scene-post-day-autumn-v32": {
+    "url": "/art/v32/scene-post-day-autumn-v32.webp",
+    "dimensions": [
+      5760,
+      2160
+    ],
+    "outputBytes": 14958726,
+    "sha256": "7bf0bb0c3ccbcb6fcb5628661dbf8732a0adb6709e58d648bdaadd8caa1c668e"
+  },
+  "scene-post-interior-counter-day-autumn-v32": {
+    "url": "/art/v32/scene-post-interior-counter-day-autumn-v32.webp",
+    "dimensions": [
+      2901,
+      856
+    ],
+    "outputBytes": 2721516,
+    "sha256": "8f6df7a45689166e0a309db4956ba4797fe15e12da56950b5ee18b4bb7c3e1b6"
+  },
+  "scene-post-interior-day-autumn-v32": {
+    "url": "/art/v32/scene-post-interior-day-autumn-v32.webp",
+    "dimensions": [
+      5760,
+      2160
+    ],
+    "outputBytes": 15281074,
+    "sha256": "8c20e27c2c09edec35953e66baa9b3ed4e265cbb9cad83455f118a961496c858"
+  },
+  "scene-post-interior-exit-day-autumn-v32": {
+    "url": "/art/v32/scene-post-interior-exit-day-autumn-v32.webp",
+    "dimensions": [
+      864,
+      2160
+    ],
+    "outputBytes": 2254770,
+    "sha256": "52a3234d821aa685f058791285c8e9411f6bae38783a136c2d31756f70230a0f"
+  },
+  "scene-school-day-autumn-door-v32": {
+    "url": "/art/v32/scene-school-day-autumn-door-v32.webp",
+    "dimensions": [
+      157,
+      337
+    ],
+    "outputBytes": 53248,
+    "sha256": "0d836d75d500d6dfab6ddacfef6678b4ab63511241fe0d105b1963cfd1a56a55"
+  },
+  "scene-school-day-autumn-v32": {
+    "url": "/art/v32/scene-school-day-autumn-v32.webp",
+    "dimensions": [
+      5760,
+      2160
+    ],
+    "outputBytes": 16911216,
+    "sha256": "29ef52d26b15865de0ac2a7697c3c719098b1eab9cc34029ac551f85aa591586"
+  },
+  "scene-station-day-autumn-v32": {
+    "url": "/art/v32/scene-station-day-autumn-v32.webp",
+    "dimensions": [
+      5760,
+      2160
+    ],
+    "outputBytes": 14147386,
+    "sha256": "5794a36c80247c41cec7ed72a55109979d9b5ff599c9ef25ee079bcbb7bcaa4f"
+  },
+  "scene-station-waiting-room-day-autumn-v32": {
+    "url": "/art/v32/scene-station-waiting-room-day-autumn-v32.webp",
+    "dimensions": [
+      5760,
+      2160
+    ],
+    "outputBytes": 13125326,
+    "sha256": "47e7f6f626def8219f16ef5f1eb562c20de2f465877ed5751c17f04fd0e75514"
+  },
+  "scene-store-day-autumn-v32": {
+    "url": "/art/v32/scene-store-day-autumn-v32.webp",
+    "dimensions": [
+      5760,
+      2160
+    ],
+    "outputBytes": 14118674,
+    "sha256": "86fd4be4baa3c0f2fdc8fb55434bc3518aca63d395c7f15dbc72fae2f8dbb9e0"
+  },
+  "scene-town-day-autumn-v32": {
+    "url": "/art/v32/scene-town-day-autumn-v32.webp",
+    "dimensions": [
+      5760,
+      2160
+    ],
+    "outputBytes": 16393784,
+    "sha256": "7595249c4ec036cf07a4076cd6ed8538ebec2066403ee1759705ec292644761a"
+  },
+  "scene-town-entrance-day-autumn-v32": {
+    "url": "/art/v32/scene-town-entrance-day-autumn-v32.webp",
+    "dimensions": [
+      147,
+      479
+    ],
+    "outputBytes": 65332,
+    "sha256": "98f6609623ff3bd36b21debf0b13174f3a65081e641c101265cb3620a0e632de"
+  },
+  "station-public-entrance-v32": {
+    "url": "/art/v32/station-public-entrance-v32.webp",
+    "dimensions": [
+      266,
+      564
+    ],
+    "outputBytes": 136240,
+    "sha256": "360fe9c53b8b9367c92972bf8eba981285c5d2662630b41f866ceef7e50c8d90"
+  },
+  "waiting-room-lost-register-v32": {
+    "url": "/art/v32/waiting-room-lost-register-v32.webp",
+    "dimensions": [
+      269,
+      73
+    ],
+    "outputBytes": 17536,
+    "sha256": "b8162950c36fdbe9cd077459475977d48be5c567d82c5e71a8d49a5ef6ab3634"
+  },
+  "waiting-room-luggage-v32": {
+    "url": "/art/v32/waiting-room-luggage-v32.webp",
+    "dimensions": [
+      489,
+      409
+    ],
+    "outputBytes": 211442,
+    "sha256": "e65ae03d7cb315164e0d14cde5f115f5685eab6ea1813e6a979e346022767c09"
+  }
+}

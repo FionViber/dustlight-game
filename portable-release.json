@@ -187,11 +187,16 @@
       "art/v15/scene-mine-day-autumn-v15.webp",
       "art/v15/scene-post-day-autumn-v15.webp",
       "art/v15/scene-ridge-day-autumn-v15.webp",
+      "art/v15/scene-school-day-autumn-door-v15.webp",
       "art/v15/scene-school-day-autumn-v15.webp",
       "art/v15/scene-station-day-autumn-v15.webp",
+      "art/v15/scene-station-waiting-room-baggage-day-autumn-v15.webp",
       "art/v15/scene-station-waiting-room-day-autumn-v15.webp",
+      "art/v15/scene-station-waiting-room-door-day-autumn-v15.webp",
+      "art/v15/scene-store-back-entry-day-autumn-v15.webp",
       "art/v15/scene-store-day-autumn-v15.webp",
       "art/v15/scene-town-day-autumn-v15.webp",
+      "art/v15/scene-town-entrance-day-autumn-v15.webp",
       "art/v16/scene-store-stockroom-day-autumn-v16.webp",
       "art/v16/scene-town-church-interior-day-autumn-v16.webp",
       "art/v17/scene-school-reading-day-autumn-v17.webp",
@@ -229,7 +234,14 @@
       "art/v27/cat-button-everyday-v27.webp",
       "art/v27/cat-button-formal-v27.webp",
       "art/v27/cat-button-work-v27.webp",
-      "art/v27/ui-pet-v27.webp"
+      "art/v27/ui-pet-v27.webp",
+      "art/v32/scene-post-day-autumn-v32.webp",
+      "art/v32/scene-post-interior-day-autumn-v32.webp",
+      "art/v32/scene-school-day-autumn-v32.webp",
+      "art/v32/scene-station-day-autumn-v32.webp",
+      "art/v32/scene-station-waiting-room-day-autumn-v32.webp",
+      "art/v32/scene-store-day-autumn-v32.webp",
+      "art/v32/scene-town-day-autumn-v32.webp"
     ],
     "canvas": [
       "art/optimized/actor-ada-scene-v9.webp",
@@ -354,21 +366,17 @@
       "art/v15/scene-ridge-front-stone-day-autumn-v15.webp",
       "art/v15/scene-school-day-autumn-benchBook-v15.webp",
       "art/v15/scene-school-day-autumn-benchFront-v15.webp",
-      "art/v15/scene-school-day-autumn-door-v15.webp",
       "art/v15/scene-school-day-autumn-gatePost-v15.webp",
       "art/v15/scene-school-day-autumn-notice-v15.webp",
       "art/v15/scene-station-baggage-cart-day-autumn-v15.webp",
       "art/v15/scene-station-foreground-platform-edge-day-autumn-v15.webp",
       "art/v15/scene-station-notice-case-day-autumn-v15.webp",
       "art/v15/scene-station-parcel-day-autumn-v15.webp",
-      "art/v15/scene-station-waiting-room-baggage-day-autumn-v15.webp",
       "art/v15/scene-station-waiting-room-bench-paper-day-autumn-v15.webp",
-      "art/v15/scene-station-waiting-room-door-day-autumn-v15.webp",
       "art/v15/scene-station-waiting-room-foreground-left-bench-day-autumn-v15.webp",
       "art/v15/scene-station-waiting-room-foreground-right-bench-day-autumn-v15.webp",
       "art/v15/scene-station-waiting-room-platform-door-day-autumn-v15.webp",
       "art/v15/scene-station-waiting-room-ticket-ledger-day-autumn-v15.webp",
-      "art/v15/scene-store-back-entry-day-autumn-v15.webp",
       "art/v15/scene-store-delivery-crate-day-autumn-v15.webp",
       "art/v15/scene-store-delivery-tag-day-autumn-v15.webp",
       "art/v15/scene-store-foreground-left-rail-day-autumn-v15.webp",
@@ -377,7 +385,6 @@
       "art/v15/scene-store-older-crate-day-autumn-v15.webp",
       "art/v15/scene-store-shop-entry-day-autumn-v15.webp",
       "art/v15/scene-town-community-paper-day-autumn-v15.webp",
-      "art/v15/scene-town-entrance-day-autumn-v15.webp",
       "art/v15/scene-town-gathering-bench-day-autumn-v15.webp",
       "art/v15/scene-town-near-left-grass-day-autumn-v15.webp",
       "art/v15/scene-town-near-right-grass-day-autumn-v15.webp",
@@ -406,10 +413,18 @@
       "art/v21/fx-leaf-autumn-v21.webp",
       "art/v21/fx-leaf-cottonwood-v21.webp",
       "art/v21/fx-leaf-willow-v21.webp",
-      "art/v24/snow-crystals.webp"
+      "art/v24/snow-crystals.webp",
+      "art/v32/post-public-entrance-v32.webp",
+      "art/v32/scene-post-interior-counter-day-autumn-v32.webp",
+      "art/v32/scene-post-interior-exit-day-autumn-v32.webp",
+      "art/v32/scene-school-day-autumn-door-v32.webp",
+      "art/v32/scene-town-entrance-day-autumn-v32.webp",
+      "art/v32/station-public-entrance-v32.webp",
+      "art/v32/waiting-room-lost-register-v32.webp",
+      "art/v32/waiting-room-luggage-v32.webp"
     ],
-    "directBytes": 109317176,
-    "canvasBytes": 37459466,
+    "directBytes": 214387332,
+    "canvasBytes": 42994340,
     "artUnchanged": true
   },
   "mediaExports": [
@@ -442,6 +457,6 @@
       "parts": 12
     }
   ],
-  "files": 665,
-  "bytes": 362875168
+  "files": 685,
+  "bytes": 480879448
 }

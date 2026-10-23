@@ -1,3 +1,7 @@
+# V0.32 — 铁路出行与邮局内景
+
+车站中央敞开的门通往候车室，票簿办理铁路出行，目前仅开放纽约探亲。失物登记簿放在行李车上，独立阅读。进入邮局后在柜台查询领取信件；到件依然静默，领取后收进剪贴簿。学校、教堂和杂货铺入口一并调整。
+
 # 无人县：最后的勘界 · v0.31.0
 
 [进入游戏](https://fionviber.github.io/dustlight-game/) · [美术图册](https://fionviber.github.io/dustlight-game/review-art.html)

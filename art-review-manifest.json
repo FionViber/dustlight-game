@@ -2380,5 +2380,95 @@
     "src": "/art/v27/board-falling-v27.webp",
     "width": 941,
     "height": 1672
+  },
+  {
+    "id": "post-public-entrance-v32",
+    "src": "/art/v32/post-public-entrance-v32.webp",
+    "width": 274,
+    "height": 646
+  },
+  {
+    "id": "scene-post-day-autumn-v32",
+    "src": "/art/v32/scene-post-day-autumn-v32.webp",
+    "width": 5760,
+    "height": 2160
+  },
+  {
+    "id": "scene-post-interior-counter-day-autumn-v32",
+    "src": "/art/v32/scene-post-interior-counter-day-autumn-v32.webp",
+    "width": 2901,
+    "height": 856
+  },
+  {
+    "id": "scene-post-interior-day-autumn-v32",
+    "src": "/art/v32/scene-post-interior-day-autumn-v32.webp",
+    "width": 5760,
+    "height": 2160
+  },
+  {
+    "id": "scene-post-interior-exit-day-autumn-v32",
+    "src": "/art/v32/scene-post-interior-exit-day-autumn-v32.webp",
+    "width": 864,
+    "height": 2160
+  },
+  {
+    "id": "scene-school-day-autumn-door-v32",
+    "src": "/art/v32/scene-school-day-autumn-door-v32.webp",
+    "width": 157,
+    "height": 337
+  },
+  {
+    "id": "scene-school-day-autumn-v32",
+    "src": "/art/v32/scene-school-day-autumn-v32.webp",
+    "width": 5760,
+    "height": 2160
+  },
+  {
+    "id": "scene-station-day-autumn-v32",
+    "src": "/art/v32/scene-station-day-autumn-v32.webp",
+    "width": 5760,
+    "height": 2160
+  },
+  {
+    "id": "scene-station-waiting-room-day-autumn-v32",
+    "src": "/art/v32/scene-station-waiting-room-day-autumn-v32.webp",
+    "width": 5760,
+    "height": 2160
+  },
+  {
+    "id": "scene-store-day-autumn-v32",
+    "src": "/art/v32/scene-store-day-autumn-v32.webp",
+    "width": 5760,
+    "height": 2160
+  },
+  {
+    "id": "scene-town-day-autumn-v32",
+    "src": "/art/v32/scene-town-day-autumn-v32.webp",
+    "width": 5760,
+    "height": 2160
+  },
+  {
+    "id": "scene-town-entrance-day-autumn-v32",
+    "src": "/art/v32/scene-town-entrance-day-autumn-v32.webp",
+    "width": 147,
+    "height": 479
+  },
+  {
+    "id": "station-public-entrance-v32",
+    "src": "/art/v32/station-public-entrance-v32.webp",
+    "width": 266,
+    "height": 564
+  },
+  {
+    "id": "waiting-room-lost-register-v32",
+    "src": "/art/v32/waiting-room-lost-register-v32.webp",
+    "width": 269,
+    "height": 73
+  },
+  {
+    "id": "waiting-room-luggage-v32",
+    "src": "/art/v32/waiting-room-luggage-v32.webp",
+    "width": 489,
+    "height": 409
   }
 ]
