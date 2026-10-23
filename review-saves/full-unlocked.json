@@ -84,53 +84,6 @@
     "lastContactDay": 0
   },
   "money": 99900,
-  "inventory": {
-    "clippings": 1,
-    "first-sheet-note": 1,
-    "marker-comparison": 1,
-    "bearing-note": 1,
-    "survey-exercise": 1,
-    "beans": 20,
-    "biscuit": 20,
-    "cornbread": 20,
-    "coffee": 20,
-    "jerky": 20,
-    "apple": 20,
-    "stew": 20,
-    "flour": 20,
-    "cornmeal": 20,
-    "milk": 20,
-    "butter": 20,
-    "egg": 20,
-    "potato": 20,
-    "onion": 20,
-    "dry-beans": 20,
-    "raw-beef": 20,
-    "raw-pork": 20,
-    "raw-fish": 20,
-    "fried-fish": 20,
-    "scrambled-eggs": 20,
-    "apple-compote": 20,
-    "pan-potatoes": 20,
-    "boiled-potatoes": 20,
-    "boiled-egg": 20,
-    "cornmeal-mush": 20,
-    "canteen": 1,
-    "lantern": 1,
-    "pickaxe": 1,
-    "rope": 1,
-    "compass": 1,
-    "notebook": 1,
-    "boots": 1,
-    "revolver": 1,
-    "brass-marker": 1,
-    "telegram": 1,
-    "blue-map": 1,
-    "signal-telegram": 1,
-    "newspaper": 1,
-    "willow-bark": 1,
-    "throat-lozenges": 1
-  },
   "heldItem": null,
   "deductions": [],
   "minigames": {
@@ -158,9 +111,9 @@
         "x": 14,
         "y": 7
       },
+      "status": "ready",
       "score": 0,
-      "best": 0,
-      "status": "ready"
+      "best": 0
     },
     "tile2048": {
       "board": [
@@ -446,10 +399,6 @@
       "puzzleId": "easy-bsfdtx"
     },
     "fallingBlocks": {
-      "best": 0,
-      "bestLines": 0,
-      "totalLines": 0,
-      "fourLineClears": 0,
       "board": [
         0,
         0,
@@ -673,7 +622,11 @@
       "lines": 0,
       "pieces": 0,
       "lastClear": [],
-      "clearSerial": 0
+      "clearSerial": 0,
+      "best": 0,
+      "bestLines": 0,
+      "totalLines": 0,
+      "fourLineClears": 0
     },
     "crossword": {
       "board": [
@@ -842,6 +795,72 @@
     ],
     "entries": []
   },
+  "homeTrips": {
+    "entries": []
+  },
+  "postal": {
+    "deliveries": [
+      {
+        "id": "mother-first",
+        "letterId": "mother-new-york-first",
+        "arrivalDay": 3,
+        "arrivalMinutes": 480
+      }
+    ]
+  },
+  "inventory": {
+    "first-sheet-note": 1,
+    "marker-comparison": 1,
+    "bearing-note": 1,
+    "clippings": 1,
+    "survey-exercise": 1,
+    "beans": 20,
+    "biscuit": 20,
+    "cornbread": 20,
+    "coffee": 20,
+    "jerky": 20,
+    "apple": 20,
+    "stew": 20,
+    "flour": 20,
+    "cornmeal": 20,
+    "milk": 20,
+    "butter": 20,
+    "egg": 20,
+    "potato": 20,
+    "onion": 20,
+    "dry-beans": 20,
+    "raw-beef": 20,
+    "raw-pork": 20,
+    "raw-fish": 20,
+    "fried-fish": 20,
+    "scrambled-eggs": 20,
+    "apple-compote": 20,
+    "pan-potatoes": 20,
+    "boiled-potatoes": 20,
+    "boiled-egg": 20,
+    "cornmeal-mush": 20,
+    "canteen": 1,
+    "lantern": 1,
+    "pickaxe": 1,
+    "rope": 1,
+    "compass": 1,
+    "notebook": 1,
+    "boots": 1,
+    "revolver": 1,
+    "brass-marker": 1,
+    "telegram": 1,
+    "blue-map": 1,
+    "signal-telegram": 1,
+    "newspaper": 1,
+    "willow-bark": 1,
+    "throat-lozenges": 1
+  },
+  "equipment": {
+    "footwear": "boots",
+    "weapon": null,
+    "tool": null
+  },
+  "equipped": "boots",
   "flags": [
     "station-inspected",
     "court-inspected",
@@ -1552,72 +1571,79 @@
     {
       "id": "first-snake",
       "day": 124,
-      "minutes": 600
+      "minutes": 480
     },
     {
       "id": "first-2048",
       "day": 124,
-      "minutes": 600
+      "minutes": 480
     },
     {
       "id": "first-sudoku",
       "day": 124,
-      "minutes": 600
+      "minutes": 480
     },
     {
       "id": "win-2048",
       "day": 124,
-      "minutes": 600
+      "minutes": 480
     },
     {
       "id": "win-sudoku",
       "day": 124,
-      "minutes": 600
+      "minutes": 480
     },
     {
       "id": "first-falling-blocks",
       "day": 124,
-      "minutes": 600
+      "minutes": 480
     },
     {
       "id": "four-lines",
       "day": 124,
-      "minutes": 600
-    },
-    {
-      "id": "first-pet-work",
-      "day": 124,
-      "minutes": 600
-    },
-    {
-      "id": "first-pet-wages",
-      "day": 124,
-      "minutes": 600
-    },
-    {
-      "id": "first-pet-outfit",
-      "day": 124,
-      "minutes": 600
-    },
-    {
-      "id": "first-pet-talk",
-      "day": 124,
-      "minutes": 600
+      "minutes": 480
     },
     {
       "id": "first-crossword",
       "day": 124,
-      "minutes": 600
+      "minutes": 480
     },
     {
       "id": "win-crossword",
       "day": 124,
-      "minutes": 600
+      "minutes": 480
+    },
+    {
+      "id": "first-pet-work",
+      "day": 124,
+      "minutes": 480
+    },
+    {
+      "id": "first-pet-wages",
+      "day": 124,
+      "minutes": 480
+    },
+    {
+      "id": "first-pet-outfit",
+      "day": 124,
+      "minutes": 480
+    },
+    {
+      "id": "first-pet-talk",
+      "day": 124,
+      "minutes": 480
     }
   ],
   "appearance": {
     "clara": "everyday"
   },
+  "battle": null,
+  "campaign": {
+    "startDate": "1885-09-01",
+    "durationYears": 10,
+    "deadlineDate": "1895-09-01"
+  },
+  "ending": null,
   "log": [
     {
       "en": "Arrived in Carson City to search for Father, Silas Ward.",
@@ -1631,18 +1657,5 @@
       "day": 124,
       "minutes": 480
     }
-  ],
-  "equipment": {
-    "footwear": "boots",
-    "weapon": null,
-    "tool": null
-  },
-  "equipped": "boots",
-  "battle": null,
-  "campaign": {
-    "startDate": "1885-09-01",
-    "durationYears": 10,
-    "deadlineDate": "1895-09-01"
-  },
-  "ending": null
+  ]
 }
